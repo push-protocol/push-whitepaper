@@ -1,6 +1,10 @@
-# Ethereum Push Notification Service Whitepaper
+---
+description: >-
+  A decentralized DeFi Notification protocol which enables users (wallet
+  addresses) to receive notifications and earn from them.
+---
 
-A decentralized DeFi Notification protocol which enables users \(wallet addresses\) to receive notifications and earn from them.
+# Ethereum Push Notification Service Whitepaper
 
 > **`Authors: Harsh Rajat, Richa Joshi`**
 >
