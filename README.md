@@ -10,7 +10,11 @@ description: >-
 
 
 
-> **`Authors: Harsh Rajat, Richa Joshi | founders@epns.io`**
+> **`Authors: Harsh Rajat, Richa Joshi`**
 >
 > **`Whitepaper Version 1.0 | June 2020`**
+
+{% hint style="success" %}
+founders@epns.io
+{% endhint %}
 
