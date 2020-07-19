@@ -8,7 +8,9 @@ description: >-
 
 **`Whitepaper Version 1.0 | June, 2020`**
 
-**`Authors: Harsh Rajat, Richa Joshi`**
+> **`Authors: Harsh Rajat, Richa Joshi`**
+>
+> **`Whitepaper Version 1.0 | June 2020`**
 
 ![](.gitbook/assets/logofulltaglinesqual.jpg)
 
