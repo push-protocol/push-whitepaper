@@ -14,7 +14,3 @@ description: >-
 >
 > **`Whitepaper Version 1.0 | June 2020`**
 
-{% hint style="success" %}
-founders@epns.io
-{% endhint %}
-
