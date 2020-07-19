@@ -10,5 +10,5 @@ description: >-
 
 **`Authors: Harsh Rajat, Richa Joshi`**
 
-![](.gitbook/assets/logo.jpg)
+![](.gitbook/assets/logofulltagline.png)
 
