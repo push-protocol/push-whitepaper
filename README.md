@@ -6,7 +6,7 @@ description: >-
 
 # Ethereum Push Notification Service Whitepaper
 
-![Whitepaper Introduction](.gitbook/assets/logofulltaglinesqual.jpg)
+![Ethereum Push Notification Service](.gitbook/assets/logofulltaglinesqual.jpg)
 
 
 
