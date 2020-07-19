@@ -6,8 +6,6 @@ description: >-
 
 # Ethereum Push Notification Service Whitepaper
 
-**`Whitepaper Version 1.0 | June, 2020`**
-
 > **`Authors: Harsh Rajat, Richa Joshi`**
 >
 > **`Whitepaper Version 1.0 | June 2020`**
