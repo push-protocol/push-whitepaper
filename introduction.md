@@ -14,5 +14,5 @@ However, for web 3.0, there still **doesn't exists a** **notification mechanism*
 
 This is a major issue in adoption and the problem will worsen more as the services keep on growing on blockchain.
 
-This Whitepaper aims to solve this problem and provide the missing piece of web3 infrastructure that we believe will lead to further adoption and maturing of the entire blockchain ecosystem.
+This paper describes the solution to this problem and aims to provide the missing piece of web3 infrastructure with the introduction of the decentralized notification protocol. The protocol will enable users to receive notifications, be in complete control of the notifications they receive as well as enabling a passive means to earn from those notifications.
 

@@ -4,7 +4,7 @@ description: >-
   addresses) to receive notifications and earn from them.
 ---
 
-# Ethereum Push Notification Service
+# Ethereum Push Notification Service \(EPNS\)
 
 ![](.gitbook/assets/logofulltaglinesquarsmall.jpg)
 
