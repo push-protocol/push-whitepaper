@@ -15,4 +15,6 @@ The document introduces a decentralized notifications protocol which enables wal
 > **`Authors: Harsh Rajat, Richa Joshi`**
 
 > **`Whitepaper Version 1.0 | June 2020`**
+>
+> **`Last Updated: 20 July, 2020`**
 
