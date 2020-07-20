@@ -4,7 +4,7 @@ description: >-
   addresses) to receive notifications and earn from them.
 ---
 
-# Ethereum Push Notification Service \| Whitepaper
+# Ethereum Push Notification Service
 
 ![](.gitbook/assets/logofulltaglinesquarsmall.jpg)
 
