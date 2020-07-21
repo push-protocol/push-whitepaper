@@ -4,7 +4,6 @@ Following definitions are used in the rest of the whitepaper to refer to certain
 
 | **Role** | Description |
 | :--- | :--- |
-| Contract Owner | The owner of the contract |
 | Service | Any dApp / smart contract / centralized service / etc who wishes to send notifications |
 | Channel | Any service that have activated themselves on the protocol and thus can send notifications to their subscribers |
 | Subscribers | The users who have subscribed to a particular channel |
