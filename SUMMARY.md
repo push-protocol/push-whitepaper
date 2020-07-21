@@ -8,7 +8,7 @@
   * [1.1 Protocol / Product Flow](introduction-1/introduction/high-level-application-flow-diagram.md)
   * [1.2 Basic Definitions](introduction-1/introduction/basic-definitions.md)
 
-## Protocol Specs
+## Specs and Architecture <a id="protocol-specs"></a>
 
 * [2. The EPNS Protocol](protocol-specs/the-epns-protocol/README.md)
   * [2.1 Activation of a service](protocol-specs/the-epns-protocol/activation-of-a-service.md)
