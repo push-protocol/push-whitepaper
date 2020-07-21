@@ -2,9 +2,7 @@
 
 Ethereum Push Notification Service is a protocol on the Ethereum blockchain that provides and standardizes the ways by which notification on blockchain can operate. 
 
-The f
-
-They also need to be decentralized, be able to adapt future changes of payload, be flexible to handle different content and should contain measures which are user centric and incentivizes the users for receiving notifications besides offering them measures for spam protection.
+The protocol 
 
 The features of the protocol can be categorized as: 
 
