@@ -6,11 +6,12 @@
 
 * [1. Introduction](introduction-1/introduction/README.md)
   * [1.1 Basic Definitions](introduction-1/introduction/basic-definitions.md)
+  * [1.2 High Level Protocol / Product Flow](introduction-1/introduction/high-level-application-flow-diagram.md)
 
 ## Protocol Specs
 
 * [2. The EPNS Protocol](protocol-specs/the-epns-protocol/README.md)
-  * [2.1 High Level Protocol / Product Flow](protocol-specs/the-epns-protocol/2.1-high-level-application-flow-diagram.md)
+  * [2.2 Activation of a service](protocol-specs/the-epns-protocol/activation-of-a-service.md)
 
 ---
 
