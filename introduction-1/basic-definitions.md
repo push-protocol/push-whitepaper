@@ -1,4 +1,4 @@
-# Basic Definitions
+# 1.2 Basic Definitions
 
 Following definitions are used in the rest of the whitepaper to refer to certain roles. Most of the terminologies when it comes to services, users and subscribers are very similar to YouTube.
 
