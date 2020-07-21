@@ -1,8 +1,12 @@
 # 2. The EPNS Protocol
 
-Ethereum Push Notification Service \(EPNS\) is a protocol on the Ethereum blockchain that provides and standardizes the ways by which notification on blockchain can operate. They also need to be decentralized, be able to adapt future changes of payload, be flexible to handle different content and should contain measures which are user centric and incentivizes the users for receiving notifications besides offering them measures for spam protection.
+Ethereum Push Notification Service is a protocol on the Ethereum blockchain that provides and standardizes the ways by which notification on blockchain can operate. 
 
-The features of the protocol can be categorized as the following features: 
+The f
+
+They also need to be decentralized, be able to adapt future changes of payload, be flexible to handle different content and should contain measures which are user centric and incentivizes the users for receiving notifications besides offering them measures for spam protection.
+
+The features of the protocol can be categorized as: 
 
 * Activation of a service as a Channel
 * Users subscribing channels to receive notifications
