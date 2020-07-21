@@ -2,7 +2,7 @@
 
 EPNS uses the following flow to ensure storage, broadcasting and sending notifications in a platform agnostic and decentralized way.
 
-![High Level Application Flow of EPNS protocol / product](../.gitbook/assets/highleveldefi.jpg)
+![High Level Application Flow of EPNS protocol / product](../../.gitbook/assets/highleveldefi.jpg)
 
 Notification are stored and treated like JSON payload which is transformed as per the rules of the different carriers when the notification reaches them. JSON Payload can differ with payload types which ensures the flexibility of the content, data, storage interpretation and delivery. This helps in creating different rules and content interpretation of the notification \(for example: carrying images, call to action, live videos, etc\)
 
