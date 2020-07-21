@@ -4,9 +4,9 @@
 
 ## Introduction <a id="introduction-1"></a>
 
-* [1. Introduction](introduction-1/introduction.md)
-* [1.1 Basic Definitions](introduction-1/basic-definitions.md)
-* [1.2 High Level Protocol / Product Flow](introduction-1/high-level-application-flow-diagram.md)
+* [Introduction](introduction-1/introduction.md)
+* [Basic Definitions](introduction-1/basic-definitions.md)
+* [High Level Protocol / Product Flow](introduction-1/high-level-application-flow-diagram.md)
 
 ## Protocol Specs
 
