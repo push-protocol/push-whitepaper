@@ -1,4 +1,4 @@
-# 1.1 High Level Protocol / Product Flow
+# 1.1 Protocol / Product Flow
 
 EPNS uses the following flow to ensure storage, broadcasting and sending notifications in a platform agnostic and decentralized way.
 
