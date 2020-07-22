@@ -6,3 +6,5 @@
 
 \[3\] IPFS Wiki: [https://en.wikipedia.org/wiki/InterPlanetary\_File\_System](https://en.wikipedia.org/wiki/InterPlanetary_File_System#:~:text=The%20InterPlanetary%20File%20System%20%28IPFS,in%20a%20distributed%20file%20system.)
 
+\[4\] Elliptic Curve Cryptography: 
+

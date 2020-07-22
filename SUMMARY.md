@@ -15,7 +15,8 @@
   * [Channel Payload Specs](protocol-specs/specifications/channel-payload-specs.md)
   * [Notification Payload Specs](protocol-specs/specifications/notification-payload-specs.md)
 * [The EPNS Protocol](protocol-specs/the-epns-protocol/README.md)
-  * [Activating a Channel](protocol-specs/the-epns-protocol/activation-of-a-service.md)
+  * [Public Key Registry](protocol-specs/the-epns-protocol/public-key-registry.md)
+  * [Channel Activation](protocol-specs/the-epns-protocol/activation-of-a-service.md)
 
 ---
 
