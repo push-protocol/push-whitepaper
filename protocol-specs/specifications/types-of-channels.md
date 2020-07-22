@@ -6,15 +6,15 @@ The protocol allows a service to choose what type of channel ****they want to cr
 * Closed Channel
 * Mutual Channel
 
-### Open Channel
+## Open Channel
 
 The default channel, this channel is created by the service and is intended to be open for any users to come and subscribe to without any restrictions. Channel can also indirectly subscribe the user to it by paying those users a minor fees.
 
-### **Closed Channel**
+## **Closed Channel**
 
 A service can opt to create a closed channel, this channel cannot be directly subscribed by the user. Instead the channel needs to add the user indirectly by paying a minor fees to the user.
 
-### Mutual Channel
+## Mutual Channel
 
 A service can opt to create a mutual channel, which requires user direct action to subscribe to it, but the subscription is only confirmed once the channel approves it as well.
 

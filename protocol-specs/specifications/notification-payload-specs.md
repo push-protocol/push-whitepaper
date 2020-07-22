@@ -173,7 +173,7 @@ Targeted notification goes to a single subscriber of a channel, the notification
 The following payloads are in discussion and form an example of how the payload specs is ever expanding and can include more than just information as notification.
 {% endhint %}
 
-### Multi-Targeted Payload \(Type 4\)
+### Multi-Targeted Payload \(Type x\)
 
 Multi-Targeted notification goes to a more than one subscriber of a channel, the notification payload in this case is not encrypted. The total number of subscribers supported is TBA.
 
@@ -200,52 +200,25 @@ Multi-Targeted notification goes to a more than one subscriber of a channel, the
 }
 ```
 
-### Multiplex Payload \(Type 5\)
+### Blacklist Payload \(Type x\)
 
-Multiplex notification goes to a more than one subscriber of a channel, the notification payload in this case depends on the inner payloads defined.
+Blacklist payload are a future forward payload meant to only demonstrate how the payload data and type defines what information the payload will carry.
 
 ```text
 {
   "data": {
     "type": "5",
-    "meta": {
-      {
-        "notification": {
-          "title": "The title of your message displayed on screen (50 Chars)",
-          "body": "The intended message displayed on screen (180 Chars)"
-        },
-        "data": {
-          "type": "3",
-          "secret": "",
-          "asub": "[Optional] The subject of the message displayed inside app (80 Chars)",
-          "amsg": "[Optional] The intended message displayed inside app (500 Chars)",
-          "acta": "[Optional] The cta link parsed inside the app",
-          "aimg": "[Optional] The image url or youtube url which is shown inside the app",
-          "atime": "[Optional] Epoch time for the notification to be shown or dispatch"
-        }
-      },
-      ...
-      {
-        "notification": {
-          "title": "The title of your message displayed on screen (50 Chars)",
-          "body": "The intended message displayed on screen (180 Chars)"
-        },
-        "data": {
-          "type": "2",
-          "secret": "No more than 15 characters, encrypted using public key of the intended recipient",
-          "asub": "encrypted by secret using AES | [Optional] The subject of the message displayed inside app (80 Chars)",
-          "amsg": "encrypted by secret using AES | [Optional] The intended message displayed inside app (500 Chars)",
-          "acta": "encrypted by secret using AES | [Optional] The cta link parsed inside the app",
-          "aimg": "encrypted by secret using AES | [Optional] The image url which is shown inside the app",
-          "atime": "[Optional] Epoch time for the notification"
-        }
-      }
+    "blacklist": {
+      address1,
+      address2,
+      ....
+      address100
     }
   }
 }
 ```
 
 {% hint style="info" %}
-The support for payload types is left to the frontend / infrastructure services.
+The support for payload types is left to the third party frontend / infrastructure services to implement. The accompanying EPNS products however will implement all payloads types which are accepted as official after community discussion.
 {% endhint %}
 
