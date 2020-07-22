@@ -10,24 +10,28 @@ In the future, the protocol can also support other blockchain by exploring bridg
 
 ## Protocol Key Features
 
-* Public key registry \(of all users\)
-* Channel Activation
-  * Game Theory, Interest Generation and Formula
-* Updating Channel
-* Channel Registry
-  * spam rating index
-* Deactivating Channel
-* User Registry
-* User Subscription to channel
-  * Direct subscription by user
-    * Game Theory, Interest Generation and Formula
-  * Indirect subscription by channel
-    * Game Theory and user incentive
-* User unsubscribing from channel
-  * Imposed rules and transfer of interest earned
-* Sending notifications
-* Delegation sending notification on channels behalf
-* Claiming all earnings by user
+* Users
+  * Public key registry
+* Channel
+  * Special channels
+  * Channel Activation & Deactivation
+    * Game Theory and User Incentives
+  * Dividing earned interest from stake pool
+  * Updating Channel
+  * Spam rating
+* Users
+  * Subscribing
+    * Direct action
+      * Game Theory and User Incentives
+    * Dividing earning from channel among subscribers
+    * Indirect action \(delegate subscribe by channel\)
+      * Game Theory and User Incentive
+  * Unsubscribing
+    * Spam indicator
+  * Claiming earnings
+* Notifications
+  * Sending notifications
+  * Delegation of notifications
 
 
 

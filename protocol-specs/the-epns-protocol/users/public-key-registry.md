@@ -1,6 +1,6 @@
 # Public Key Registry
 
-### Concept
+## Concept
 
 Encrypted notification generally uses algorithm based on public key or its' derivative thereof. To facilitate this, the EPNS protocol maintains a public key registry of all the users who enter the ecosystem. This is done by having mirrored function with public key registry for **creating a channel** and **subscribe** which allows the protocol to emit public key of the wallet out \(or skip if it already exists\).
 
