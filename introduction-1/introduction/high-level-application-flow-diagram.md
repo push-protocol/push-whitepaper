@@ -1,4 +1,4 @@
-# 1.1 Protocol / Product Flow
+# Protocol / Product Flow
 
 EPNS uses the following flow to ensure storage, broadcasting and sending notifications in a platform agnostic and decentralized way.
 
@@ -10,7 +10,7 @@ Notification are stored and treated like JSON payload which is transformed as pe
 
 **The protocol incentivizes users who receive notifications.**
 
-**This on-chain abstraction of data enables delivery to centralized as well decentralized carries, notifications are treated more like a twitter feed than an ephemeral pieces of information \(though means to do so also exists\).** 
+**This on-chain abstraction of data enables delivery to centralized as well decentralized carries, notifications are treated more like a social feed \(eg: Twitter\) than an ephemeral pieces of information \(though means to do so also exists\).** 
 
 It also enables rules, incentives, settings and configuration to be retrieved from a single source of truth and is not dependent on a single point of failure.
 

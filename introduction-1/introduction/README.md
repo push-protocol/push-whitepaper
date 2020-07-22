@@ -1,4 +1,4 @@
-# 1. Introduction
+# Introduction
 
 The blockchain space is growing at an extremely rapid pace and the exponential growth is projected to continue rapidly in terms of users, services and revenue [\[1\]](../../references.md). Despite this growth and expanding usage of blockchain tech, the services \(dApps, services, smart contracts\) still lack a genuine communication medium with their users which is sometimes filled by alternative communication mediums like twitter, telegram or email defeating the purpose of web 3.0.
 

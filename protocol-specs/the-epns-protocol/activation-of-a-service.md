@@ -1,6 +1,14 @@
-# 2.1 Activating a service as a Channel
+# Activating a Channel
 
 ### Concept
+
+A **service** needs to activate themselves on the protocol as a one time step before they can send notification to their subscribers. When a service is activated on the protocol, they are referred to as a **Channel**.
+
+The channel is also required to stake fees in DAI which is **50 DAI or higher**, this is used to create a staking pool which in turn interacts with other DeFi protocol to earn interest. This interest is then distributed to all the **subscribers** of that service in a weighted manner preferring the earliest subscriber more than the later ones.
+
+{% hint style="info" %}
+There is always 1:1 mapping between a service \(wallet\) and the channel it creates.
+{% endhint %}
 
 ### Game Theory
 
