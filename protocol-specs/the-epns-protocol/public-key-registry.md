@@ -1,4 +1,4 @@
 # Public Key Registry
 
-We believe that privacy of users \(even wallets\) is paramount, especially for notifications that will be sensitive in nature. Encryption using the ECC \(
+Encrypted notification generally uses algorithm based on public key or its' derivative. To facilitate and increase UX for developers, the protocol provides mirror functions on entry
 
