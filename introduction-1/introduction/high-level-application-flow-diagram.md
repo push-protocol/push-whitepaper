@@ -6,7 +6,7 @@ EPNS uses the following flow to ensure storage, broadcasting and sending notific
 
 Notification are stored and treated like JSON payload which is transformed as per the rules of the different carriers when the notification reaches them. JSON Payload can differ with payload types which ensures the flexibility of the content, data, storage interpretation and delivery. This helps in creating different rules and content interpretation of the notification \(for example: carrying images, call to action, live videos, etc\)
 
-**The protocol lets user be in direct control of what services they get notification from, imposes rules on the services including spam protection for users, limiting their ability to add wallets as subscribers.**
+**The protocol lets users be in direct control of what services they get notification from, it imposes rules on the services including spam protection for users, limiting their ability to add wallets as subscribers, etc.**
 
 **The protocol incentivizes users who receive notifications.**
 
@@ -19,6 +19,6 @@ Storing the payload JSON on decentralized storage and just the pointer / hash of
 This can be further optimized by moving parts of these mechanism to L2 layer.
 
 {% hint style="info" %}
-Abstracting the data layer on chain \(directly or indirectly\) ensures notifications are platform agnostic and available to be .
+Abstracting the data layer on chain \(directly or indirectly\) ensures notifications are platform agnostic and available on decentralized mediums as well \(for eg: dApp, wallets that might not want to trust a central point of truth\).
 {% endhint %}
 
