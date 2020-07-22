@@ -19,6 +19,6 @@ Storing the payload JSON on decentralized storage and just the pointer / hash of
 This can be further optimized by moving parts of these mechanism to L2 layer.
 
 {% hint style="info" %}
-Abstracting the data layer on chain \(directly or indirectly\) ensures notifications are platform agnostic. 
+Abstracting the data layer on chain \(directly or indirectly\) ensures notifications are platform agnostic and available to be .
 {% endhint %}
 

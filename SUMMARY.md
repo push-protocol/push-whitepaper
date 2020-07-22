@@ -11,7 +11,7 @@
 ## Specs and Architecture <a id="protocol-specs"></a>
 
 * [2. The EPNS Protocol](protocol-specs/the-epns-protocol/README.md)
-  * [2.1 Activation of a service](protocol-specs/the-epns-protocol/activation-of-a-service.md)
+  * [2.1 Activating a service as a Channel](protocol-specs/the-epns-protocol/activation-of-a-service.md)
 
 ---
 
