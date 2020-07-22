@@ -11,12 +11,14 @@ In the future, the protocol can also support other blockchain by exploring bridg
 ## Protocol Key Features
 
 * Users
+  * Users registry
   * Public key registry
-* Channel
+* Channels
+  * Channels registry
   * Special channels
   * Channel Activation & Deactivation
     * Game Theory and User Incentives
-  * Dividing earned interest from stake pool
+  * Deriving fair share of interest for a channel from stake pool
   * Updating Channel
   * Spam rating
 * Users
@@ -32,6 +34,10 @@ In the future, the protocol can also support other blockchain by exploring bridg
 * Notifications
   * Sending notifications
   * Delegation of notifications
+
+{% hint style="warning" %}
+The data points outlined might change in the future as more protocol features are built.
+{% endhint %}
 
 
 

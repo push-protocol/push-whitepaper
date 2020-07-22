@@ -16,8 +16,11 @@
   * [Notification Payload Specs](protocol-specs/specifications/notification-payload-specs.md)
 * [The EPNS Protocol](protocol-specs/the-epns-protocol/README.md)
   * [Users](protocol-specs/the-epns-protocol/users/README.md)
+    * [Users Registry](protocol-specs/the-epns-protocol/users/users-registry.md)
     * [Public Key Registry](protocol-specs/the-epns-protocol/users/public-key-registry.md)
-  * [Channel Activation](protocol-specs/the-epns-protocol/activation-of-a-service.md)
+  * [Channels](protocol-specs/the-epns-protocol/channels/README.md)
+    * [Channel Activation & Deactivation](protocol-specs/the-epns-protocol/channels/channel-activation-deactivation.md)
+    * [Deriving fair share of interest for a channel from stake pool](protocol-specs/the-epns-protocol/channels/deriving-fair-share-of-interest-for-a-channel-from-stake-pool.md)
 
 ---
 
