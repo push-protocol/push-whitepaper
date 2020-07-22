@@ -16,7 +16,8 @@
   * [Notification Payload Specs](protocol-specs/specifications/notification-payload-specs.md)
 * [The EPNS Protocol](protocol-specs/the-epns-protocol/README.md)
   * [Public Key Registry](protocol-specs/the-epns-protocol/public-key-registry.md)
-  * [Channel Activation](protocol-specs/the-epns-protocol/activation-of-a-service.md)
+  * [Channel Activation](protocol-specs/the-epns-protocol/activation-of-a-service/README.md)
+    * [Game Theory, Interest Generation and Formula](protocol-specs/the-epns-protocol/activation-of-a-service/channel-activation-game-theory-and-formula.md)
 
 ---
 

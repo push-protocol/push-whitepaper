@@ -11,7 +11,6 @@ In the future, the protocol can also support other blockchain by exploring bridg
 ## Protocol Key Features
 
 * Public key registry \(of all users\)
-  * Polling public key registry
 * Channel Activation
   * Game Theory, Interest Generation and Formula
 * Updating Channel
