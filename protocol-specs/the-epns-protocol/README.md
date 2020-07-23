@@ -29,7 +29,6 @@ In the future, the protocol can also support other blockchain by exploring bridg
     * Indirect action \(delegate subscribe by channel\)
       * Game Theory and User Incentive
   * Unsubscribing
-    * Spam indicator
   * Claiming earnings
 * Notifications
   * Sending notifications
