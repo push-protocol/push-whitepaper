@@ -1,6 +1,6 @@
 # Types of Channels
 
-The protocol allows a service to choose what type of channel ****they want to create. This enables several other business use cases than just delivering information via notification
+The protocol allows a service to choose what type of channel ****they want to create. This enables several other business use cases than just delivering information via notification.
 
 * Open Channel
 * Closed Channel
@@ -8,11 +8,11 @@ The protocol allows a service to choose what type of channel ****they want to cr
 
 ## Open Channel
 
-The default channel, this channel is created by the service and is intended to be open for any users to come and subscribe to without any restrictions. Channel can also indirectly subscribe the user to it by paying those users a minor fees.
+The default channel, this channel is created by the service and is intended to be open for any user to come and subscribe without any restrictions. Channel can also indirectly subscribe the user to it by paying the user a minor fee.
 
 ## **Closed Channel**
 
-A service can opt to create a closed channel, this channel cannot be directly subscribed by the user. Instead the channel needs to add the user indirectly by paying a minor fees to the user.
+A service can opt to create a closed channel, this channel cannot be directly subscribed by the user. Instead, the channel needs to add the user indirectly by paying a minor fee to the user.
 
 ## Mutual Channel
 
