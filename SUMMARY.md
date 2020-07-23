@@ -41,6 +41,7 @@
   * [Sending Notification from dApp / Serverless](protocol-specs/protocol-integration-flow/sending-notification-dapp.md)
   * [Sending Notification from Server](protocol-specs/protocol-integration-flow/sending-notification-from-server.md)
   * [Sending Notification from Smart Contract](protocol-specs/protocol-integration-flow/sending-notification-from-smart-contract.md)
+* [Future Features & Research](protocol-specs/future-features-research.md)
 
 ## Governance
 
@@ -62,8 +63,4 @@
 ## References <a id="references-1"></a>
 
 * [References](references-1/references.md)
-
----
-
-* [Future Features Research](future-features-research.md)
 
