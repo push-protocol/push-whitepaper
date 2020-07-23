@@ -19,8 +19,8 @@ createChannelWithFees(bytes calldata _identity)
 | Parameter | Sub Field | Description |
 | :--- | :--- | :--- |
 | **\_identity** |  | The identity field consists of the following parameters joined together with a delimiter. |
-|  | channeltype | the type of channel to create |
-|  | payloadtype | payload type not only indicates the content of notification but also the storage implementation stored. |
+|  | channeltype | The type of channel to create. |
+|  | payloadtype | Payload type not only indicates the content of notification but also the storage implementation stored. |
 |  | payloadhash | Indicates the hash of the payload through which payload data can be obtained. |
 | **\_publickey** |  | Pass the publickey of the wallet in bytes |
 
