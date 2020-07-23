@@ -1,10 +1,10 @@
 # Governance
 
-The protocol token has the following major functions that it perform:
+The protocol token has the following major functions that it performs:
 
-* Getting share from fee pool \(80% of the fee, split in equal parts\)
-* Setting up the price for micro-payment fees
-* Penalty fee for Channel updating
-* Removing a channel permanently
-* Adjusting spam throttle
+* Getting share from fee pool \(80% of the fee, split in equal parts\).
+* Setting up the price for micro-payment fees.
+* Penalty fee for Channel updating.
+* Removing a channel permanently.
+* Adjusting spam throttle.
 
