@@ -8,7 +8,9 @@ Despite this, it does suffer from the classic **chicken and egg problem**! Which
 
 ## Solution
 
-In order to facilitate the adoption of the protocol and to provide value to services, we are introducing the product suite of EPNS which includes:
+In order to facilitate the adoption of the protocol and to provide value to services, we will also be building the product suite of EPNS.
+
+![](../../.gitbook/assets/plainmockup.png)
 
 * **Mobile App**: that lets users sign in with their public key and start receiving notifications from channels.
 * **dApp**: to receive push notifications from web in decentralized fashion and to enable centralized web browser notification.
@@ -21,5 +23,5 @@ In order to facilitate the adoption of the protocol and to provide value to serv
   * **EthGas abnormal price alerter**
   * **Crypto price tracker** 
 
-We see these products to enable instant value add to the protocol and help in increasing awareness and drive adoption of the protocol.
+We see these products to enable instant value add to the protocol and help in increasing awareness and eventually drive adoption of the protocol.
 
