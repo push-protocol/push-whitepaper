@@ -35,14 +35,17 @@
     * [Protocol Interfacing for Notifications](protocol-specs/epns-protocol/sending-notifications/notifications-abi.md)
     * [Delegation of notifications](protocol-specs/epns-protocol/sending-notifications/delegation-of-notifications.md)
   * [Claiming Earnings from Protocol](protocol-specs/epns-protocol/claiming-earnings-from-protocol.md)
-  * [Protocol Integration Flow](protocol-specs/epns-protocol/protocol-integration-flow/README.md)
-    * [Creating Channel](protocol-specs/epns-protocol/protocol-integration-flow/creating-channel.md)
 * [EPNS Products](protocol-specs/the-epns-product/README.md)
   * [Mobile App](protocol-specs/the-epns-product/mobile-app.md)
   * [dApp](protocol-specs/the-epns-product/dapp.md)
   * [EPNS Infra \(Push Service\)](protocol-specs/the-epns-product/epns-infra-push-service.md)
   * [JS Library](protocol-specs/the-epns-product/js-library.md)
   * [Showrunners](protocol-specs/the-epns-product/showrunners.md)
+* [Integration Flow for dApp / Serverless / Smart Contract](protocol-specs/protocol-integration-flow/README.md)
+  * [Creating Channel on dApp / Server / Smart Contract](protocol-specs/protocol-integration-flow/creating-channel-on-protocol.md)
+  * [Sending Notification from dApp / Serverless](protocol-specs/protocol-integration-flow/sending-notification-dapp.md)
+  * [Sending Notification from Server](protocol-specs/protocol-integration-flow/sending-notification-from-server.md)
+  * [Sending Notification from Smart Contract](protocol-specs/protocol-integration-flow/sending-notification-from-smart-contract.md)
 
 ## Governance
 
