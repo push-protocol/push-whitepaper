@@ -13,7 +13,7 @@ sendNotification(address _recipient, bytes _identity)
 | **\_recipient** |  | Differs with the payload type, broadcast and special multi payload notifications have the channel address as the recipient address. |
 | **\_identity** |  | The identity field consists of the following parameters joined together with a delimiter. |
 |  | pushtype | Indicates service wants to push the notifications out and can in the future be segmented to different platforms push \(i.e. : 1 for every platform, 2 for mobile, 3 for web browsers, etc\). |
-|  | payloadtype | payload type not only indicates the content of notification but also the storage implementation stored. |
+|  | payloadtype | Payload type not only indicates the content of notification but also the storage implementation stored. |
 |  | payloadhash | Indicates the hash of the payload through which payload data can be obtained. |
 
 {% hint style="info" %}
@@ -29,6 +29,6 @@ Always recommended to interface with **EPNS JS Library** for abstracting these d
 {% endhint %}
 
 {% hint style="warning" %}
-This feature of protocol will keep on changing for further optimizations in the future.
+This feature of protocol will keep evolving for further optimizations in the future.
 {% endhint %}
 
