@@ -62,25 +62,25 @@
 
        5.1    [Creating Channel on dApp / Server / Smart Contract](protocol-specs/protocol-integration-flow/creating-channel-on-protocol.md)
 
-       5.2    Sending Notification from dApp / Serveless
+       5.2    [Sending Notification from dApp / Serveless](protocol-specs/protocol-integration-flow/sending-notification-dapp.md)
 
-       5.3    Sending Notification from Server
+       5.3    [Sending Notification from Server](protocol-specs/protocol-integration-flow/sending-notification-from-smart-contract.md)
 
-       5.4    Sending Notification from Smart Contract
+       5.4    [Sending Notification from Smart Contract](protocol-specs/protocol-integration-flow/sending-notification-from-server.md)
 
-6    Future Features & Research
+6    [Future Features & Research](protocol-specs/future-features-research.md)
 
-7    Governance
+7    [Governance](governance/governance.md)
 
-8     Milestones
+8     [Milestones](milestones/roadmap.md)
 
-9    Summary
+9    [Summary](summary-1/summary.md)
 
-10    Founders
+10    [Founders](team-and-acheivements/founders.md)
 
-11    Achievements
+11    [Achievements](team-and-acheivements/achievements.md)
 
-12    References
+12    [References](references-1/references.md)
 
 
 
