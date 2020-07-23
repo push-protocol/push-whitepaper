@@ -40,7 +40,7 @@ type+title+body
 ```
 
 {% hint style="warning" %}
-It's always recommended to use other payloads for dApp or server interaction. This payload should be used sparingly when it's absolutely necessary. The 'type' here is a special field which is different from the 'type' in identity.
+It's always recommended to use other payloads for dApp or server interaction. This payload should be used sparingly when it's absolutely necessary. The 'type' here is a special field which is different from the type in identity.
 {% endhint %}
 
 {% hint style="info" %}
@@ -98,7 +98,7 @@ Why not just use ECIES? ECIES increases the length of the cipher text and hence 
 {% endhint %}
 
 {% hint style="warning" %}
-The discussion on using a public key - private key encryption or a derivation of it is still in discussion. Even if we decide to go with the above encryption for secret messages. We can in the future also create a payload type that can offer encryption / decryption in a different way.
+The discussion on using a public key - private key encryption or a derivation of it is still under discussion. Even if we decide to go with the above encryption for secret messages, we can in the future create a payload type that can offer encryption / decryption in a different way.
 {% endhint %}
 
 #### Example Notification Payload \(Plain\)
@@ -147,7 +147,7 @@ The discussion on using a public key - private key encryption or a derivation of
 
 ### Targeted Payload \(Type 3\)
 
-Targeted notification goes to a single subscriber of a channel, the notification payload in this case is not encrypted.
+Targeted notifications go to a single subscriber of a channel, the notification payload in this case is not encrypted.
 
 ```text
 {
@@ -175,7 +175,7 @@ The following payloads are in discussion and form an example of how the payload 
 
 ### Multi-Targeted Payload \(Type x\)
 
-Multi-Targeted notification goes to a more than one subscriber of a channel, the notification payload in this case is not encrypted. The total number of subscribers supported is TBA.
+Multi-Targeted notifications go to a more than one subscriber of a channel, the notification payload in this case is not encrypted. The total number of subscribers supported is TBA.
 
 ```text
 {
@@ -219,6 +219,6 @@ Blacklist payload are a future forward payload meant to only demonstrate how the
 ```
 
 {% hint style="info" %}
-The support for payload types is left to the third party frontend / infrastructure services to implement. The accompanying EPNS products however will implement all payloads types which are accepted as official after community discussion.
+The support for payload types is left to third party frontend / infrastructure services to implement. The accompanying EPNS products however will implement all payloads types which are accepted as official after community discussion.
 {% endhint %}
 
