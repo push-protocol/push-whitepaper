@@ -15,20 +15,20 @@ In the future, the protocol can also support other blockchain by exploring bridg
   * Public key registry
 * Channels
   * Types of Channels
-  * Channels registry
-  * Special channels
+  * Channel registry
+  * Special Channels
   * Channel Activation & Deactivation
     * Game Theory and User Incentives
-  * Deriving fair share of interest for a channel from stake pool
+  * Deriving fair share of interest for a Channel from stake pool
   * Updating Channel
   * Spam rating and throttling
 * Subscribers
   * Subscribing to Channels
     * User direct action subscribe
       * Game Theory and User Incentives
-    * Deriving weighted earnings of a subscriber of a channel
+    * Deriving weighted earnings of a Subscriber of a Channel
     * Indirect subscribe action \(delegate subscription of user by channel\)
-      * Game Theory and User Incentive
+      * Game Theory and User Incentives
   * Unsubscribing from Channel
 * Sending Notifications
   * Protocol interfacing for Notifications
