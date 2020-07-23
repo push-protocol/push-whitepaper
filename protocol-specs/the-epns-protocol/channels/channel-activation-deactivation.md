@@ -27,6 +27,8 @@ There is an upper ceiling limit applied for staking fee to ensure that a service
 {% endhint %}
 
 {% hint style="info" %}
-The penalty fee, stake fee can be adjusted in the future before going to the mainnet. After mainnet, it can only be adjusted by decentralized voting.
+The penalty fee, stake fee can be adjusted in the future before going to the mainnet. After mainnet, it can only be adjusted by voting mechanism of the protocol.
 {% endhint %}
+
+
 

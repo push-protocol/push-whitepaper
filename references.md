@@ -10,3 +10,5 @@
 
 \[5\] Advance Encryption Standard: [https://en.wikipedia.org/wiki/Advanced\_Encryption\_Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 
+\[6\] Game Theory and Trust: [https://ncase.me/trust/](https://ncase.me/trust/)
+

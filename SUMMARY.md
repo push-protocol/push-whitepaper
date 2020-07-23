@@ -24,10 +24,24 @@
     * [Channel Activation & Deactivation](protocol-specs/the-epns-protocol/channels/channel-activation-deactivation.md)
     * [Deriving fair share of interest for a channel from stake pool](protocol-specs/the-epns-protocol/channels/deriving-fair-share-of-interest-for-a-channel-from-stake-pool.md)
     * [Updating Channel](protocol-specs/the-epns-protocol/channels/updating-channel.md)
-    * [Spam rating and throttling](protocol-specs/the-epns-protocol/channels/spam-rating-and-throttling.md)
-  * [Subscribers](protocol-specs/the-epns-protocol/subscribers.md)
+    * [Spam score and throttling](protocol-specs/the-epns-protocol/channels/spam-rating-and-throttling.md)
+  * [Subscribers](protocol-specs/the-epns-protocol/subscribers/README.md)
+    * [Subscribing to Channel](protocol-specs/the-epns-protocol/subscribers/subscribing-to-channel.md)
+    * [User direct action subscribe](protocol-specs/the-epns-protocol/subscribers/user-direct-action-subscribe.md)
+    * [Deriving weighted earnings of a subscriber of a channel](protocol-specs/the-epns-protocol/subscribers/deriving-weighted-earnings-of-a-subscriber-of-a-channel.md)
+    * [Indirect subscribe action \(delegate subscription of user by channel\)](protocol-specs/the-epns-protocol/subscribers/indirect-subscribe-action-delegate-subscription-of-user-by-channel.md)
+    * [Unsubscribing from Channel](protocol-specs/the-epns-protocol/subscribers/unsubscribing-from-channel.md)
+  * [Notifications ABI](protocol-specs/the-epns-protocol/notifications-abi/README.md)
+    * [Notification ABI](protocol-specs/the-epns-protocol/notifications-abi/notification-abi.md)
+    * [Sending notifications](protocol-specs/the-epns-protocol/notifications-abi/sending-notifications.md)
+    * [Delegation of notifications](protocol-specs/the-epns-protocol/notifications-abi/delegation-of-notifications.md)
+  * [Claiming Earnings from Protocol](protocol-specs/the-epns-protocol/claiming-earnings-from-protocol.md)
+* [The EPNS Product](protocol-specs/the-epns-product.md)
+* [Protocol Token](protocol-specs/protocol-token/README.md)
+  * [Governance](protocol-specs/protocol-token/governance.md)
 
 ---
 
+* [Founders](founders.md)
 * [References](references.md)
 

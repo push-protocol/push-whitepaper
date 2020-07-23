@@ -29,7 +29,7 @@ $$
 
 ### Formula to calculate historical constant \(z\), 
 
-occurs whenever a channel is added, deactivated or the stake fees changes
+Occurs whenever a channel is added, deactivated or the stake fees changes
 
 $$
 z = z + (n * x  * w)
@@ -37,9 +37,9 @@ $$
 
 | Parameter | Explanation |
 | :--- | :--- |
-| d | Differential of current time block and the time block on which the channel was last modified in relation to stake fees. |
+| d | Differential of current block number and the block number on which the channel was last modified in relation to stake fees. |
 | a | The actual weight of the channel, measured by dividing the stake fees of the channel with the minimum stake fees. |
-| z | The historical constant of the **channels**, calculated whenever a modification in number of channels occur or whenever  the stakes fees of the channel is changed. |
+| z | The historical constant of the **channels**, calculated whenever a modification in number of channels occurs or whenever  the stakes fees of the channel is changed. |
 | n | The previous count of the number of channels present in the protocol. |
 | x | Differential between the latest block number and the last modified block number, last modified block number is whenever a  channel was added, deactivated or fees of any channel was changed. |
 | w | The averaged out weight of all the channels, the average is normalized / averaged out whenever a new channel is added, deactivated or fess of any channel is changed. |
