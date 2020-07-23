@@ -41,7 +41,7 @@
   * [EPNS Infra \(Push Service\)](protocol-specs/the-epns-product/epns-infra-push-service.md)
   * [JS Library](protocol-specs/the-epns-product/js-library.md)
   * [Showrunners](protocol-specs/the-epns-product/showrunners.md)
-* [Integration Flow for dApp / Serverless / Smart Contract](protocol-specs/protocol-integration-flow/README.md)
+* [Integration Flow for dApp / Server / Smart Contract](protocol-specs/protocol-integration-flow/README.md)
   * [Creating Channel on dApp / Server / Smart Contract](protocol-specs/protocol-integration-flow/creating-channel-on-protocol.md)
   * [Sending Notification from dApp / Serverless](protocol-specs/protocol-integration-flow/sending-notification-dapp.md)
   * [Sending Notification from Server](protocol-specs/protocol-integration-flow/sending-notification-from-server.md)

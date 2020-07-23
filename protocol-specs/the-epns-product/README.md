@@ -10,11 +10,11 @@ Despite this, it does suffer from the classic **chicken and egg problem**! Which
 
 In order to facilitate the adoption of the protocol and to provide value to services, we are introducing the product suite of EPNS which includes:
 
-* Mobile App: that lets users sign in with their public key and start receiving notifications from channels.
-* dApp: to receive push notifications from web in decentralized fashion and to enable centralized web browser notification.
-* EPNS Infra \(Push Service\): to enable carrying notifications from EPNS protocol on decentralized layer to centralized solutions \(iOS, Android, Web, etc\)
-* EPNS JS Library: to enable quick integration from third party dApps, servers. 
-* Showrunners: These are channels created and run by us for the benefit of the community and for users to come and see why push notifications transformed the traditional world. Few example of showrunners which we will be running are 
+* **Mobile App**: that lets users sign in with their public key and start receiving notifications from channels.
+* **dApp**: to receive push notifications from web in decentralized fashion and to enable centralized web browser notification.
+* **EPNS Infra \(Push Service\)**: to enable carrying notifications from EPNS protocol on decentralized layer to centralized solutions \(iOS, Android, Web, etc\)
+* **EPNS JS Library**: to enable quick integration from third party dApps, servers. 
+* **Showrunners**: These are channels created and run by us for the benefit of the community and for users to come and see why push notifications transformed the traditional world. Few example of showrunners which we will be running are 
   * **Wallet crypto movement tracker**
   * **ENS domain expiry**
   * **Compound liquidation alert** 

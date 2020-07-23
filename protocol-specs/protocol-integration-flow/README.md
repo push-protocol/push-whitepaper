@@ -1,6 +1,6 @@
-# Integration Flow for dApp / Serverless / Smart Contract
+# Integration Flow for dApp / Server / Smart Contract
 
-Integration is designed to keep developer hassle to a minimum and as such, the recommend way to connect to protocol through various architecture are explained. 
+Some of the ways by which the protocol can be Integration into the dApp, Server or Smart Contract flow. is designed to keep developer hassle to a minimum and as such, the recommend way to connect to protocol through various architecture are explained. 
 
 * Creating Channel
 * Sending Notification from dApp / Serverless
