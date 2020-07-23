@@ -20,8 +20,8 @@ In the future, the protocol can also support other blockchain by exploring bridg
     * Game Theory and User Incentives
   * Deriving fair share of interest for a channel from stake pool
   * Updating Channel
-  * Spam rating
-* Users
+  * Spam rating and throttling
+* Subscribers
   * Subscribing
     * Direct action
       * Game Theory and User Incentives

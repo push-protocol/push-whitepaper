@@ -23,6 +23,10 @@ In order to ensure the proper participation of all players, following game theor
 * The rest of the penalty \(**10 DAI**\) goes into the revenue pool.
 
 {% hint style="info" %}
-The penalty fee, stake fee can be adjusted in the future in a decentralized manner
+There is an upper ceiling limit applied for staking fee to ensure that a service is not approving unlimited amount of fees to transfer \(250k DAI at the time of writing\). This is mostly to avoid the mentioned problem and should not really be effecting any features or UX of the protocol.
+{% endhint %}
+
+{% hint style="info" %}
+The penalty fee, stake fee can be adjusted in the future before going to the mainnet. After mainnet, it can only be adjusted by decentralized voting.
 {% endhint %}
 
