@@ -31,10 +31,9 @@
     * [Deriving weighted earnings of a subscriber of a channel](protocol-specs/the-epns-protocol/subscribers/deriving-weighted-earnings-of-a-subscriber-of-a-channel.md)
     * [Indirect subscribe action \(delegate subscription of user by channel\)](protocol-specs/the-epns-protocol/subscribers/indirect-subscribe-action-delegate-subscription-of-user-by-channel.md)
     * [Unsubscribing from Channel](protocol-specs/the-epns-protocol/subscribers/unsubscribing-from-channel.md)
-  * [Notifications ABI](protocol-specs/the-epns-protocol/notifications-abi/README.md)
-    * [Notification ABI](protocol-specs/the-epns-protocol/notifications-abi/notification-abi.md)
-    * [Sending notifications](protocol-specs/the-epns-protocol/notifications-abi/sending-notifications.md)
-    * [Delegation of notifications](protocol-specs/the-epns-protocol/notifications-abi/delegation-of-notifications.md)
+  * [Sending notifications](protocol-specs/the-epns-protocol/sending-notifications/README.md)
+    * [Protocol Interfacing for Notifications](protocol-specs/the-epns-protocol/sending-notifications/notifications-abi.md)
+    * [Delegation of notifications](protocol-specs/the-epns-protocol/sending-notifications/delegation-of-notifications.md)
   * [Claiming Earnings from Protocol](protocol-specs/the-epns-protocol/claiming-earnings-from-protocol.md)
 * [The EPNS Product](protocol-specs/the-epns-product.md)
 * [Protocol Token](protocol-specs/protocol-token/README.md)
@@ -42,6 +41,7 @@
 
 ---
 
+* [Roadmap](roadmap.md)
 * [Founders](founders.md)
 * [References](references.md)
 
