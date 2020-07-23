@@ -10,18 +10,33 @@ Despite this, it does suffer from the classic **chicken and egg problem**! Which
 
 In order to facilitate the adoption of the protocol and to provide value to services, we will also be building the product suite of EPNS.
 
-![](../../.gitbook/assets/plainmockup.png)
+![Ethereum Push Notification Service Protocol / Product](../../.gitbook/assets/plainmockupglow.jpg)
 
-* **Mobile App**: that lets users sign in with their public key and start receiving notifications from channels.
-* **dApp**: to receive push notifications from web in decentralized fashion and to enable centralized web browser notification.
-* **EPNS Infra \(Push Service\)**: to enable carrying notifications from EPNS protocol on decentralized layer to centralized solutions \(iOS, Android, Web, etc\)
-* **EPNS JS Library**: to enable quick integration from third party dApps, servers. 
-* **Showrunners**: These are channels created and run by us for the benefit of the community and for users to come and see why push notifications transformed the traditional world. Few example of showrunners which we will be running are 
-  * **Wallet crypto movement tracker**
-  * **ENS domain expiry**
-  * **Compound liquidation alert** 
-  * **EthGas abnormal price alerter**
-  * **Crypto price tracker** 
+### **Mobile App**
+
+Servers the purpose of delivering notifications from decentralized protocol to centralized EPNS Infra to centralized platforms \(iOS and Android\).
+
+### dApp
+
+Enables receiving notifications from web browsers and also enables delivery of notifications from protocol to decentralized carriers.
+
+### **EPNS Infra \(Push Service\)**
+
+Enables carrying notifications from decentralized protocol to centralized solutions \(iOS, Android, Web, etc\). Also enables third party dApps, services and protocols to start experiencing the notification impact as notifications is delivered following the entire protocol / product lifecycle.
+
+### **Showrunners**
+
+These are channels created and run by us for the benefit of the community and for users to come and see why push notifications transformed the traditional world. Few example of showrunners which we will be running are 
+
+* **Wallet crypto movement tracker**
+* **ENS domain expiry**
+* **Compound liquidation alert** 
+* **EthGas abnormal price alerter**
+* **Crypto price tracker** 
+
+### **JS Library**
+
+Considerably reduces the integration time required for third party dApps, servers.
 
 We see these products to enable instant value add to the protocol and help in increasing awareness and eventually drive adoption of the protocol.
 
