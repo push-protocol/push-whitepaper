@@ -10,10 +10,10 @@ The JSON Payload can differ with payload types ensuring flexibility of the conte
 
 | Parameter | Description |
 | :--- | :--- |
-| **notification**  | \[Required\] Represents the notification typically delivered on the home screen of the platform \(mobile, tablet, web, etc\), the icon of the channel is automatically added to outline where the notification is coming from. |
-| title | \[Required\] The title of the message displayed on the screen, this differs from the **data json** because the title while transforming the payload can be different than the title presented. For example, secret notification title are always transformed to say **Channel has sent you a secret notification.** |
-| body | \[Required\] The body of the message displayed on the screen, this differs from the **data json** because the title while transforming the payload can be different than the title presented. For example, secret notification body are always transformed to say **Please open the dApp / app to view your notification.** |
-| **data** | \[Optional\] The data field present here forms the visual **feedBox** for the user. Indicates the data field the payload will carry. This allows the notification to transform according to the payload type and the content defined on the platform frontend \(ie: app, dApp, wallet, etc\).  |
+| **notification**  | \[Required\] Represents the notification typically delivered on the home screen of the platform \(mobile, tablet, web, etc.\), the icon of the channel is automatically added to outline where the notification is coming from. |
+| title | \[Required\] The title of the message displayed on the screen, this differs from the **data json** because the title while transforming the payload can be different than the title presented. For example, a secret notification title is always transformed to say **Channel has sent you a secret notification.** |
+| body | \[Required\] The body of the message displayed on the screen, this differs from the **data json** because the title while transforming the payload can be different than the title presented. For example, a secret notification body is always transformed to say **Please open the dApp / app to view your notification.** |
+| **data** | \[Optional\] The data field present here forms the visual **feedBox** for the user. It indicates the data field the payload will carry. This allows the notification to transform according to the payload type and the content defined on the platform frontend \(i.e. app, dApp, wallet, etc\).  |
 | type | \[Required\] Each payload has a type which tells how the data should be interpreted, this type is mirrored on the protocol function call as well.  |
 | secret | \[Optional\] is required for certain payload types to decrypt the data. |
 | asub | \[Optional\] is the subject shown in the feed item. |
@@ -21,7 +21,7 @@ The JSON Payload can differ with payload types ensuring flexibility of the conte
 | acta | \[Optional\] is the call to action of that feed item. |
 | aimg | \[Optional\] is the image shown in the feed item, this field is also capable of carrying **other media** links. |
 | atime | \[Optional\] time in epoch when the notification should be displayed, if present, the frontend should respect this field and delay the notification till the schedule is reached. If the time is before the current time, the notification is treated as to be dispatched and displayed immediately. |
-| **recipients** | \[Optional\] When present with appropriate payload type allows notification to delivered to many subscribers \(but not all subscriber\) of that channel. |
+| **recipients** | \[Optional\] When presented with appropriate payload type allows notification to be delivered to many subscribers \(but not all subscriber\) of that channel. |
 
 {% hint style="info" %}
 If no **data** is carried in the **payload** \(or only **atime** is carried\), it is assumed that the notification is not important and hence **persist \(or appearance\)** in the frontend **feedBox** of the user.
@@ -29,18 +29,18 @@ If no **data** is carried in the **payload** \(or only **atime** is carried\), i
 
 ## Payload Types
 
-The following are few payload types which are already defined, though they can change as we move forward. Notification payload type for EPNS is infinitely extensible and opens a huge range of possibilities including **multi-factor authentication, payments, blacklisting address \(Multi-sig contract as channel with exchanges as their subscribers\), etc**, The data defined in the JSON payload they carry is used to interpret and extend that functionality.
+The following are few payload types that are already defined, though they can change as we move forward. Notification payload type for EPNS is infinitely extensible and opens a huge range of possibilities including **multi-factor authentication, payments, blacklisting address \(Multi-sig contract as a channel with exchanges as their subscribers\), etc.** The data defined in the JSON payload they carry is used to interpret and extend that functionality.
 
 ### Direct Protocol Payload \(Type 0\)
 
-Direct payload are special payloads meant for sending directly to protocol, the delimiter **+** divides the subject and message which are the only two fields it carries. 
+Direct payloads are special payloads meant for sending directly to the protocol, the delimiter **+** divides the subject and message which are the only two fields it carries. 
 
 ```text
 type+title+body
 ```
 
 {% hint style="warning" %}
-It's always recommended to use other payloads for dApp or server interaction. This payload should be used sparingly when it's absolutely necessary. the type here is a special field which is different from the type in identity.
+It's always recommended to use other payloads for dApp or server interaction. This payload should be used sparingly when it's absolutely necessary. The 'type' here is a special field which is different from the 'type' in identity.
 {% endhint %}
 
 {% hint style="info" %}
