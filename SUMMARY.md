@@ -63,3 +63,7 @@
 
 * [References](references-1/references.md)
 
+---
+
+* [Future features research](future-features-research.md)
+
