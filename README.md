@@ -6,8 +6,6 @@ description: >-
 
 # Ethereum Push Notification Service \(EPNS\)
 
-
-
 ![](.gitbook/assets/logofulltaglinesquarsmall.jpg)
 
 **Abstract**
