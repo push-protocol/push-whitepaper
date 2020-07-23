@@ -10,7 +10,7 @@ EPNS is a decentralized notification protocol that abstracts the data layer to e
 The protocol charges micro fees on notifications that are sent out. The fees from this goes to the revenue pool of the protocol. 
 
 {% hint style="warning" %}
-The revenue pool in the future might support not only the EPNS infra but also other third party teams building centralized carriers on top of the notification protocol.
+The revenue pool in the future might support sending fees to EPNS infra along or to other third party solutions offering infra service for decentralized to centralized carriers.
 {% endhint %}
 
 

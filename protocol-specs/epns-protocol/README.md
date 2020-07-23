@@ -1,4 +1,4 @@
-# The EPNS Protocol
+# EPNS Protocol
 
 ## Introduction
 
@@ -8,12 +8,13 @@ Ethereum Push Notification Service protocol will be on the Ethereum blockchain t
 In the future, the protocol can also support other blockchain by exploring bridging or migrating the contract and service to a particular blockchain.
 {% endhint %}
 
-## Primary Use Cases
+## Primary Use Cases & Features
 
 * Users
   * Users registry
   * Public key registry
 * Channels
+  * Types of Channels
   * Channels registry
   * Special channels
   * Channel Activation & Deactivation
