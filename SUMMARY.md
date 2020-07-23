@@ -65,5 +65,5 @@
 
 ---
 
-* [Future features research](future-features-research.md)
+* [Future Features Research](future-features-research.md)
 
