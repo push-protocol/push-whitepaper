@@ -12,3 +12,5 @@
 
 \[6\] Game Theory and Trust: [https://ncase.me/trust/](https://ncase.me/trust/)
 
+\[7\] IPNS: [https://docs.ipfs.io/concepts/ipns/](https://docs.ipfs.io/concepts/ipns/)
+

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Ethereum Push Notification Service \(EPNS\)](README.md)
+* [Index](index.md)
 
 ## Introduction <a id="introduction-1"></a>
 
