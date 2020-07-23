@@ -1,4 +1,4 @@
-# Sending notifications
+# Sending Notifications
 
 ## Concept
 
