@@ -10,7 +10,7 @@ Despite this, it does suffer from the classic **chicken and egg problem**! Which
 
 In order to facilitate the adoption of the protocol and to provide value to services, we will also be building the product suite of EPNS.
 
-![Ethereum Push Notification Service Protocol / Product](../../.gitbook/assets/plainmockupglow.jpg)
+![Ethereum Push Notification Service Protocol / Product](../.gitbook/assets/plainmockupglow.jpg)
 
 ### **Mobile App**
 

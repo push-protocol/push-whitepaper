@@ -35,9 +35,7 @@
     * [Protocol Interfacing for Notifications](protocol-specs/epns-protocol/sending-notifications/notifications-abi.md)
     * [Delegation of Notifications](protocol-specs/epns-protocol/sending-notifications/delegation-of-notifications.md)
   * [Claiming Earnings from Protocol](protocol-specs/epns-protocol/claiming-earnings-from-protocol.md)
-* [EPNS Products](protocol-specs/the-epns-product/README.md)
-  * [Mobile App](protocol-specs/the-epns-product/mobile-app.md)
-  * [dApp](protocol-specs/the-epns-product/dapp.md)
+* [EPNS Products](protocol-specs/the-epns-product.md)
 * [Integration Flow for dApp / Server / Smart Contract](protocol-specs/protocol-integration-flow/README.md)
   * [Creating Channel on dApp / Server / Smart Contract](protocol-specs/protocol-integration-flow/creating-channel-on-protocol.md)
   * [Sending Notification from dApp / Serverless](protocol-specs/protocol-integration-flow/sending-notification-dapp.md)
@@ -46,8 +44,7 @@
 
 ## Governance
 
-* [Governance](governance/governance/README.md)
-  * [Protocol Token](governance/governance/protocol-token.md)
+* [Governance](governance/governance.md)
 
 ## Milestones
 
