@@ -18,37 +18,37 @@
 
               3.1.1    [Users Registry](protocol-specs/epns-protocol/users/users-registry.md)
 
-              3.1.2    Public Key Registry
+              3.1.2    [Public Key Registry](protocol-specs/epns-protocol/users/public-key-registry.md)
 
-       3.2    Channels
+       3.2    [Channels](protocol-specs/epns-protocol/channels/)
 
-              3.2.1    Types of Channels
+              3.2.1    [Types of Channels](protocol-specs/epns-protocol/channels/types-of-channels.md)
 
-              3.2.2     Channels Registry
+              3.2.2     [Channels Registry](protocol-specs/epns-protocol/channels/channels-registry.md)
 
-              3.2.3     Special Channels
+              3.2.3     [Special Channels](protocol-specs/epns-protocol/channels/special-channels.md)
 
-              3.2.4     Channel Activation and Deactivation
+              3.2.4     [Channel Activation and Deactivation](protocol-specs/epns-protocol/channels/channel-activation-deactivation.md)
 
-              3.2.5     Deriving fair share of interest for a channel from stake pool
+              3.2.5     [Deriving fair share of interest for a channel from stake pool](protocol-specs/epns-protocol/channels/deriving-fair-share-of-interest-for-a-channel-from-stake-pool.md)
 
-              3.2.6     Updating Channel
+              3.2.6     [Updating Channel](protocol-specs/epns-protocol/channels/updating-channel.md)
 
-              3.2.7     Spam score and throttling
+              3.2.7     [Spam score and throttling](protocol-specs/epns-protocol/channels/spam-rating-and-throttling.md)
 
-       3.3    Subscribers
+       3.3    [Subscribers](protocol-specs/epns-protocol/subscribers/)
 
-              3.3.1    Subscribing to Channel
+              3.3.1    [Subscribing to Channel](protocol-specs/epns-protocol/subscribers/subscribing-to-channel.md)
 
-              3.3.2     User direct action subscribe
+              3.3.2     [User direct action subscribe](protocol-specs/epns-protocol/subscribers/user-direct-action-subscribe.md)
 
-              3.3.3     Deriving weighted earnings of a subscriber of a channel
+              3.3.3     [Deriving weighted earnings of a subscriber of a channel](protocol-specs/epns-protocol/subscribers/deriving-weighted-earnings-of-a-subscriber-of-a-channel.md)
 
-              3.3.4     Indirect subscribe action \(delegate subscription of user by channel\)
+              3.3.4     [Indirect subscribe action \(delegate subscription of user by channel\)](protocol-specs/epns-protocol/subscribers/indirect-subscribe-action-delegate-subscription-of-user-by-channel.md)
 
-              3.3.5     Unsubscribing from Channel
+              3.3.5     [Unsubscribing from Channel](protocol-specs/epns-protocol/subscribers/unsubscribing-from-channel.md)
 
-       3.4     Sending Notification
+       3.4     [Sending Notification](protocol-specs/epns-protocol/sending-notifications/)
 
               3.4.1    Protocol Interfacing and Notifications
 
