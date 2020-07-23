@@ -1,9 +1,9 @@
 # Channel Payload Specs
 
-Creating a channel requires sending a JSON payload containing information about the channel to a decentralized storage. This JSON payload is uploaded to a decentralized storage solution \(IPFS at the time of writing\) which emitted on chain to ensure that channel meta data can be constructed from the said decentralized storage.
+Creating a channel requires sending a JSON payload containing information about the channel to a decentralized storage. This JSON payload is uploaded to a decentralized storage solution \(IPFS at the time of writing\) which is emitted on chain to ensure that channel meta data can be constructed from the said decentralized storage.
 
 {% hint style="info" %}
-The upload of payload is easily taken care of by our dApp or any frontend solutions. While provisions to do it on smart contract directly exists \(with pre-filled IPFS hash\), it's recommended to it on frontend due to it being a one time process.
+Uploading the payload is easily taken care by our dApp or any frontend solutions. While provisions to do it on smart contract directly exists \(with pre-filled IPFS hash\), it's recommended to do it on frontend due to it being a one time process.
 {% endhint %}
 
 ## Channel JSON Payload
@@ -27,7 +27,7 @@ The upload of payload is easily taken care of by our dApp or any frontend soluti
 ```
 
 {% hint style="info" %}
-The hash / pointer of the payload is recorded on-chain along with the payload type. This payload type defines how to interpret what storage solution is used and how to retrieve the content of it on frontend.
+The hash / pointer of the payload is recorded on-chain along with the payload type. This payload type defines how to interpret what storage solution is used and how to retrieve its content on frontend.
 {% endhint %}
 
 
