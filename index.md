@@ -50,17 +50,17 @@
 
        3.4     [Sending Notification](protocol-specs/epns-protocol/sending-notifications/)
 
-              3.4.1    Protocol Interfacing and Notifications
+              3.4.1    [Protocol Interfacing and Notifications](protocol-specs/epns-protocol/sending-notifications/notifications-abi.md)
 
-              3.4.2    Delegation of Notifications
+              3.4.2    [Delegation of Notifications](protocol-specs/epns-protocol/sending-notifications/delegation-of-notifications.md)
 
-       3.5    Claiming Earnings from Protocol
+       3.5    [Claiming Earnings from Protocol](protocol-specs/epns-protocol/claiming-earnings-from-protocol.md)
 
-4    EPNS Products
+4    [EPNS Products](protocol-specs/the-epns-product.md)
 
-5    Integration Flow for dApp / Server / Smart Contract
+5    [Integration Flow for dApp / Server / Smart Contract](protocol-specs/protocol-integration-flow/)
 
-       5.1    Creating Channel on dApp / Server / Smart Contract
+       5.1    [Creating Channel on dApp / Server / Smart Contract](protocol-specs/protocol-integration-flow/creating-channel-on-protocol.md)
 
        5.2    Sending Notification from dApp / Serveless
 
