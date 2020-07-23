@@ -36,8 +36,8 @@
     * [Delegation of notifications](protocol-specs/the-epns-protocol/sending-notifications/delegation-of-notifications.md)
   * [Claiming Earnings from Protocol](protocol-specs/the-epns-protocol/claiming-earnings-from-protocol.md)
 * [The EPNS Product](protocol-specs/the-epns-product.md)
-* [Protocol Token](protocol-specs/protocol-token/README.md)
-  * [Governance](protocol-specs/protocol-token/governance.md)
+* [Governance](protocol-specs/governance/README.md)
+  * [Protocol Token](protocol-specs/governance/protocol-token.md)
 
 ---
 
