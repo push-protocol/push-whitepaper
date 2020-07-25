@@ -18,6 +18,7 @@ The indirect subscribe action imposes the following rules and conditions on the 
 * The user can set and change at will their fee that a channel should to pay to them for indirect subscribe.
 * The channel needs to pay the user the above specified amount and only then can the indirect subscribe occur, this directly goes to the users earning reserve. 
 * If the user hasn't set an indirect fee amount, then a default amount **0.1 DAI** still needs to be paid before an indirect subscribe can occur.
+* A minor fees \(0.2% at the time of writing\) is also charged which is sent to the Fee Pool.
 
 {% hint style="info" %}
 The indirect fees can be adjusted in the future before going to the mainnet. After mainnet, it can only be adjusted by voting mechanism of the protocol.
