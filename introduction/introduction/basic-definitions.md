@@ -19,7 +19,7 @@ The following definitions are used in the rest of the whitepaper to refer to cer
 
 | **Role** | Description |
 | :--- | :--- |
-| IPFS | The InterPlanetary File System \(**IPFS**\) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. [\[3\]](../../references-1/references.md) |
+| IPFS | The InterPlanetary File System \(**IPFS**\) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. [\[3\]](../../references/references.md) |
 | JSON payload | JavaScript Object Notation is used across the ecosystem for storage of data meant for consumption at frontend. |
 
 {% hint style="info" %}

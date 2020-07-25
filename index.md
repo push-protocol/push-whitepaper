@@ -1,10 +1,10 @@
 # Index
 
-1    [Introduction](introduction-1/introduction/)
+1    [Introduction](introduction/introduction/)
 
-       1.1    [Protocol / Product Flow](introduction-1/introduction/high-level-application-flow-diagram.md)
+       1.1    [Protocol / Product Flow](introduction/introduction/high-level-application-flow-diagram.md)
 
-       1.2    [Basic Definitions](introduction-1/introduction/basic-definitions.md)
+       1.2    [Basic Definitions](introduction/introduction/basic-definitions.md)
 
 2    [Specifications](protocol-specs/specifications/)
 
@@ -70,17 +70,17 @@
 
 6    [Future Features & Research](protocol-specs/future-features-research.md)
 
-7    [Governance](governance/governance.md)
+7    [Governance](milestones-1/governance.md)
 
 8     [Milestones](milestones/roadmap.md)
 
-9    [Summary](summary-1/summary.md)
+9    [Summary](summary/summary.md)
 
 10    [Founders](team-and-acheivements/founders.md)
 
 11    [Achievements](team-and-acheivements/achievements.md)
 
-12    [References](references-1/references.md)
+12    [References](references/references.md)
 
 
 

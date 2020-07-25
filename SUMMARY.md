@@ -3,11 +3,11 @@
 * [Ethereum Push Notification Service \(EPNS\)](README.md)
 * [Index](index.md)
 
-## Introduction <a id="introduction-1"></a>
+## Introduction
 
-* [Introduction](introduction-1/introduction/README.md)
-  * [Protocol / Product Flow](introduction-1/introduction/high-level-application-flow-diagram.md)
-  * [Basic Definitions](introduction-1/introduction/basic-definitions.md)
+* [Introduction](introduction/introduction/README.md)
+  * [Protocol / Product Flow](introduction/introduction/high-level-application-flow-diagram.md)
+  * [Basic Definitions](introduction/introduction/basic-definitions.md)
 
 ## Specs and Architecture <a id="protocol-specs"></a>
 
@@ -44,24 +44,24 @@
   * [Sending Notification from Smart Contract](protocol-specs/protocol-integration-flow/sending-notification-from-smart-contract.md)
 * [Future Features & Research](protocol-specs/future-features-research.md)
 
-## Governance
+## Milestones <a id="milestones-1"></a>
 
-* [Governance](governance/governance.md)
+* [Governance](milestones-1/governance.md)
 
 ## Milestones
 
 * [Milestones](milestones/roadmap.md)
 
-## Summary <a id="summary-1"></a>
+## Summary
 
-* [Summary](summary-1/summary.md)
+* [Summary](summary/summary.md)
 
 ## Team & Acheivements
 
 * [Founders](team-and-acheivements/founders.md)
 * [Achievements](team-and-acheivements/achievements.md)
 
-## References <a id="references-1"></a>
+## References
 
-* [References](references-1/references.md)
+* [References](references/references.md)
 
