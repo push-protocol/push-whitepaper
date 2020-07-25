@@ -1,10 +1,10 @@
 # Introduction
 
-The blockchain space is growing at an extremely rapid pace and the exponential growth is projected to continue rapidly in terms of users, services and revenue [\[1\]](../../references/references.md). Despite this growth and expanding usage of blockchain tech, the services \(dApps, services, smart contracts\) still lack a genuine communication medium with their users which is sometimes filled by alternative communication mediums like twitter, telegram or email defeating the purpose of web 3.0.
+The blockchain space is growing at an extremely rapid pace and the exponential growth is projected to continue rapidly in terms of users, services and revenue [\[1\]](../../references-section/references.md). Despite this growth and expanding usage of blockchain tech, the services \(dApps, services, smart contracts\) still lack a genuine communication medium with their users which is sometimes filled by alternative communication mediums like twitter, telegram or email defeating the purpose of web 3.0.
 
 More often though, dApps, smart contracts or services assume that users will come to them. This method is very similar to the early 2003 era of the internet where users were expected to perform an action, come back later and check the results of those actions \(Gmail, Orkut, etc\). 
 
-While this was okay with early internet days and web 2.0, it is not the case with traditional services now. In fact, no web 2.0 service really expects the user to come to them now, instead, they reach out to their users informing them about certain important events or any further actions required from users end. Modern push notification played a crucial role in this transition and has become a backbone for all web 2.0 services now [\[2\]](../../references/references.md).
+While this was okay with early internet days and web 2.0, it is not the case with traditional services now. In fact, no web 2.0 service really expects the user to come to them now, instead, they reach out to their users informing them about certain important events or any further actions required from users end. Modern push notification played a crucial role in this transition and has become a backbone for all web 2.0 services now [\[2\]](../../references-section/references.md).
 
 However, for web 3.0, there still **doesn't exist a** **notification mechanism** that can notify users\(wallet addresses\) of important updates, events, actions, etc. This flawed mechanism has already led to pain points and side effects:
 
