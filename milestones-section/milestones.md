@@ -1,4 +1,4 @@
 # Milestones
 
-![](../.gitbook/assets/milestones.jpg)
+![](../.gitbook/assets/milestonesgitbook.jpg)
 
