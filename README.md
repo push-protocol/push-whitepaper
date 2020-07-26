@@ -16,5 +16,5 @@ The document introduces a decentralized notifications protocol that enables wall
 
 > **`Whitepaper Draft Version 1.0 | June 2020`**
 >
-> **`Last Updated: 25 July, 2020`**
+> **`Last Updated: 26 July, 2020`**
 
