@@ -72,9 +72,9 @@
 
 7    [Governance](governance-section/governance.md)
 
-8     [Milestones](milestones-section/milestones.md)
+8    [Summary](summary-section/summary.md)
 
-9    [Summary](summary-section/summary.md)
+9     [Milestones](milestones-section/milestones.md)
 
 10    [Founders](team-and-acheivements-section/founders.md)
 

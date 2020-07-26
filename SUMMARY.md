@@ -48,13 +48,13 @@
 
 * [Governance](governance-section/governance.md)
 
-## Milestones <a id="milestones-section"></a>
-
-* [Milestones](milestones-section/milestones.md)
-
 ## Summary <a id="summary-section"></a>
 
 * [Summary](summary-section/summary.md)
+
+## Milestones <a id="milestones-section"></a>
+
+* [Milestones](milestones-section/milestones.md)
 
 ## Team & Acheivements <a id="team-and-acheivements-section"></a>
 
