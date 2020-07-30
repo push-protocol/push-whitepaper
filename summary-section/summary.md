@@ -5,6 +5,6 @@
 * The rules of the protocol ensures fair participation and encourages all parties through incentives \(monetary or otherwise\) to achieve win-win situation.
 
 {% hint style="success" %}
-Most of the features of protocol and product including the DeFi aspect were created before writing this whitepaper though as with any projects, some of the technical details will change over time for optimization, flexibility, scalability, etc.
+Most of the features of protocol and product including the DeFi aspect were created before writing this whitepaper though as with any project, some of the technical details will change over time for improvements and optimizations.
 {% endhint %}
 
