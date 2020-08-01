@@ -1,6 +1,6 @@
 ---
 description: >-
-  A decentralized DeFi Notification protocol which enables users (wallet
+  A decentralized DeFi Notification protocol that enables users (wallet
   addresses) to receive notifications and earn from them.
 ---
 
