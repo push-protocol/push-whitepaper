@@ -46,7 +46,9 @@
 
 ## Governance <a id="governance-section"></a>
 
-* [Governance](governance-section/governance.md)
+* [Governance](governance-section/governance/README.md)
+  * [Usage and Design](governance-section/governance/usage-and-design.md)
+  * [Game Theory](governance-section/governance/game-theory.md)
 
 ## Summary <a id="summary-section"></a>
 

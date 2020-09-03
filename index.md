@@ -70,7 +70,7 @@
 
 6    [Future Features & Research](protocol-specs-section/future-features-research.md)
 
-7    [Governance](governance-section/governance.md)
+7    [Governance](governance-section/governance/)
 
 8    [Summary](summary-section/summary.md)
 
