@@ -1,6 +1,6 @@
 # Governance
 
-The protocol tokens are designed to incentivize continued adoption cycle for the EPNS protocol. This is achieved by ensuring incentives for all the players involved by rewarding or encouraging them through incentives and penalty, their continued involvement is seen to be necessary for the growth and adoption of the protocol and to achieve the **vision of becoming web3 standard**.
+The protocol tokens are designed to incentivize continued adoption cycle for the EPNS protocol. This is achieved by ensuring incentives for all the players involved by rewarding or encouraging them through incentives and penalty, their continued involvement is seen to be necessary for the growth and adoption of the protocol and to achieve the **vision of becoming web3 notification standard**.
 
 ## Players of EPNS
 
