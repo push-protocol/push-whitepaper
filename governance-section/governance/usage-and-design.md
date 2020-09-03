@@ -4,7 +4,7 @@
 
 All fees collected from the EPNS protocol usage forms the ​**Fees pool** ​and will be distributed in the following proportion:
 
-**Fees pool​** = **70%​** for **Token holders**, **30%​** for **Ecosystem development pool**
+**30%​** of **Fees Pool** forms **Ecosystem development pool**
 
 | **Ecosystem development pool \(EDP\)​ Breakdown** |  |
 | :--- | :--- |
@@ -26,12 +26,6 @@ The major decision and usage of the protocol tokens are:
 * **Liquidity Mining:​** Service providers will be rewarded with our tokens for the next few years with more rewards going to higher subscriber count and notifications sent. This will create a new subsection of service providers \(ie: vendor\), that are third party developers who are not affiliated to official services but create channels to capitalize on token rewards for providing quality content.
 * **Liquidity Mining:** ​To encourage more users to vote on proposals and to enable further decentralization, the voting will result in rewards in terms of governance tokens.
 * **Note:** ​When a user withdraws their earnings, the aDAI accrued is swapped for the protocol’s governance token and is given to them.
-* **Note:** ​The ecosystem development pool allocation from the fees pool is non-adjusted \(i.e. will remain at **30% of fees pool**\).
-* **Note:** ​The share of token holders from Fees pool is non-adjustable \(i.e. will remain at **70% of fees pool**\).
-
-{% hint style="info" %}
-The token holders share was adjusted from **80%** to **70%** to create a reward pool & incentive structure for all wallets.
-{% endhint %}
 
 {% hint style="warning" %}
 The token design and usage is still in discussion and might result in some further tweaks in design. The document specs will freeze as we move from draft to final.
