@@ -2,7 +2,7 @@
 
 There are two special channels in the protocol that are owned and controlled by the contract owner. These channels are special because:
 
-* They don't give any interest to their subscribers.
+* They don't give any token incentives to their subscribers.
 * They are the only automated opt-in channels in the protocol that doesn't pay subscribers \(yet add them without their direct consent\).
 
 ## EPNS Channel

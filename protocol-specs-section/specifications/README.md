@@ -8,7 +8,7 @@ Keeping in mind with the above analogies, the following specifications are rolle
 
 Some of the use cases we see opening up by this approach are:
 
-* To allow users to receive notifications with different content type \(images, call to actions, videos, etc.\) .
+* To allow users to receive notifications with different content type \(images, call to actions, videos, etc.\).
 * To allow future content or payload to be different and be interpreted differently.
 * Makes interpreting payload storage flexible as changing payload type can indicate the storage medium \(on-chain, ipfs, other storage solutions\).
 * To allow service to create channel that any user can subscribe to.

@@ -16,7 +16,7 @@ The indirect subscribe action imposes the following rules and conditions on the 
 
 * The indirect subscribe can only occur once, if the user unsubscribes, there is no way to add them back.
 * The user can set and change at will their fee that a channel should to pay to them for indirect subscribe.
-* The channel needs to pay the user the above specified amount and only then can the indirect subscribe occur, this directly goes to the users earning reserve. 
+* The channel needs to pay the user the above specified amount and only then can the indirect subscribe occur, this directly goes to the users Incentive Reserve. 
 * If the user hasn't set an indirect fee amount, then a default amount **0.1 DAI** still needs to be paid before an indirect subscribe can occur.
 * A minor fees \(0.2% at the time of writing\) is also charged which is sent to the Fee Pool.
 

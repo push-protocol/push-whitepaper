@@ -1,5 +1,7 @@
 # Index
 
+0    [Ethereum Push Notification Service \(EPNS\)](./)
+
 1    [Introduction](introduction-section/introduction/)
 
        1.1    [Protocol / Product Flow](introduction-section/introduction/high-level-application-flow-diagram.md)
@@ -30,7 +32,7 @@
 
               3.2.4     [Channel Activation and Deactivation](protocol-specs-section/epns-protocol/channels/channel-activation-deactivation.md)
 
-              3.2.5     [Deriving fair share of interest for a channel from stake pool](protocol-specs-section/epns-protocol/channels/deriving-fair-share-of-interest-for-a-channel-from-stake-pool.md)
+              3.2.5     [Deriving fair share of token incentives for a channel from stake pool](protocol-specs-section/epns-protocol/channels/deriving-fair-share-of-token-incentives-for-a-channel-from-stake-pool.md)
 
               3.2.6     [Updating Channel](protocol-specs-section/epns-protocol/channels/updating-channel.md)
 

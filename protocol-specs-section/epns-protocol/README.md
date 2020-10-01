@@ -19,7 +19,7 @@ In the future, the protocol can also support other blockchain by exploring bridg
   * Special channels
   * Channel Activation & Deactivation
     * Game Theory and User Incentives
-  * Deriving fair share of interest for a channel from stake pool
+  * Deriving fair share of token incentives for a channel from stake pool
   * Updating Channel
   * Spam rating and throttling
 * Subscribers

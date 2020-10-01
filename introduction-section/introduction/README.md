@@ -1,6 +1,6 @@
 # Introduction
 
-The blockchain space is growing at an extremely rapid pace and the exponential growth is projected to continue rapidly in terms of users, services and revenue [\[1\]](../../references-section/references.md). Despite this growth and expanding usage of blockchain tech, the services \(dApps, services, smart contracts\) still lack a genuine communication medium with their users which is sometimes filled by alternative communication mediums like twitter, telegram or email defeating the purpose of web 3.0.
+The blockchain space is growing at an extremely rapid pace and the exponential growth is projected to continue rapidly in terms of users, services and revenue [\[1\]](../../references-section/references.md). Despite this growth and expanding usage of blockchain tech, the services \(dApps, services, smart contracts\) still lack a genuine and organic communication medium with their users which is sometimes filled by alternative communication mediums like twitter, telegram or email defeating the purpose of web 3.0.
 
 More often though, dApps, smart contracts or services assume that users will come to them. This method is very similar to the early 2003 era of the internet where users were expected to perform an action, come back later and check the results of those actions \(Gmail, Orkut, etc\). 
 
@@ -14,5 +14,5 @@ However, for web 3.0, there still **doesn't exist a** **notification mechanism**
 
 This is a major issue in adoption and the problem will worsen more as the services keep on growing on blockchain.
 
-This paper describes the solution to these problems and aims to provide the missing piece of web 3.0 infrastructure with the introduction of the decentralized notification protocol. The protocol will enable users to receive notifications, be in complete control of the notifications they receive as well as enabling a passive means to earn from those notifications.
+This paper describes the solution to these problems and aims to provide the missing piece of web 3.0 infrastructure with the introduction of the decentralized notification protocol. The protocol will enable users to receive notifications, be in complete control of the notifications they receive as well as enabling users to earn token incentives from those notifications.
 

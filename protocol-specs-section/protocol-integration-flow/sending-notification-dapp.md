@@ -2,7 +2,7 @@
 
 ## dApp / Serverless integration workflow
 
-EPNS allows various ways to integrate the protocol into your service. The following flow shows how a dApp can send notification to the protocol.
+EPNS allows various ways to integrate the protocol into your service. The following flow shows how a dApp can send notifications to the protocol.
 
 ![](../../.gitbook/assets/inputdappserverless.png)
 

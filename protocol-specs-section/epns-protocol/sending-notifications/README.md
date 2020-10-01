@@ -11,6 +11,6 @@ EPNS is a decentralized notification protocol that abstracts the data layer to e
 The protocol charges micro fees on notifications that are sent out. The fees from this goes to the fee pool of the protocol. 
 
 {% hint style="warning" %}
-The fee pool is divided into certain ratios which are then shared accordingly as per the governance game theory and voting.
+The fee pool is divided into certain ratios which are then shared accordingly as per the governance game theory and voting, so as to incentivize protocol participation.
 {% endhint %}
 

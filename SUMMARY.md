@@ -23,7 +23,7 @@
     * [Channels Registry](protocol-specs-section/epns-protocol/channels/channels-registry.md)
     * [Special Channels](protocol-specs-section/epns-protocol/channels/special-channels.md)
     * [Channel Activation & Deactivation](protocol-specs-section/epns-protocol/channels/channel-activation-deactivation.md)
-    * [Deriving fair share of interest for a channel from stake pool](protocol-specs-section/epns-protocol/channels/deriving-fair-share-of-interest-for-a-channel-from-stake-pool.md)
+    * [Deriving fair share of token incentives for a channel from stake pool](protocol-specs-section/epns-protocol/channels/deriving-fair-share-of-token-incentives-for-a-channel-from-stake-pool.md)
     * [Updating Channel](protocol-specs-section/epns-protocol/channels/updating-channel.md)
     * [Spam score and throttling](protocol-specs-section/epns-protocol/channels/spam-rating-and-throttling.md)
   * [Subscribers](protocol-specs-section/epns-protocol/subscribers/README.md)
