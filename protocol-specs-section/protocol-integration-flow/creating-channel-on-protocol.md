@@ -7,28 +7,29 @@ Interfacing directly via smart contract to protocol to create a channel can also
 *  with **public key registry** function
 
 ```text
-createChannelWithFeesAndPublicKey(bytes calldata _identity, bytes calldata _publickey) external
+createChannelWithFeesAndPublicKey(ChannelType _channelType, bytes calldata _identity, bytes calldata _publickey) external
 ```
 
 * without **public key registry** function
 
 ```text
-createChannelWithFees(bytes calldata _identity)
+createChannelWithFees(ChannelType _channelType, bytes calldata _identity)
 ```
 
 | Parameter | Sub Field | Description |
 | :--- | :--- | :--- |
+| **\_channelType** |  | The type of channel to create |
 | **\_identity** |  | The identity field consists of the following parameters joined together with a delimiter. |
-|  | channeltype | The type of channel to create. |
 |  | payloadtype | Payload type not only indicates the content of notification but also the storage implementation stored. |
 |  | payloadhash | Indicates the hash of the payload through which payload data can be obtained. |
 | **\_publickey** |  | Pass the publickey of the wallet in bytes |
 
-| channeltype | Description |
+| ChannelType | Description |
 | :--- | :--- |
-| 1 | Open Channel |
-| 2 | Closed Channel |
-| 3 | Mutual Channel |
+| 0 | Non Interest Bearing, Protocol Reserved Channel for Information |
+| 1 | Special Interest Bearing Protocol Reserved Opt in Channel for Promotion |
+| 2 | Interest Bearing, Open Channel |
+| 3 | Interest Bearing, Mutual Channel |
 
 | payloadtype | Description |
 | :--- | :--- |
@@ -39,7 +40,7 @@ The delimiter **+** is used for joining the fields together, this is done to opt
 {% endhint %}
 
 {% hint style="success" %}
-Example **\_identity**: 1+1+QmXSuc8iVsNFtsqrFvgHWpa6tJXFLoq2QEWYu2aS6KF8ux
+Example **\_identity**: 1+QmXSuc8iVsNFtsqrFvgHWpa6tJXFLoq2QEWYu2aS6KF8ux
 {% endhint %}
 
 {% hint style="success" %}
