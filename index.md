@@ -1,8 +1,8 @@
 # Index
 
-0    [Ethereum Push Notification Service \(EPNS\)](./)
+[Ethereum Push Notification Service \(EPNS\) Abstract](./)
 
-0   [DISCLAIMER](disclaimer.md)
+[DISCLAIMER](disclaimer.md)
 
 1    [Introduction](introduction-section/introduction/)
 

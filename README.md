@@ -15,9 +15,9 @@ The document introduces a decentralized notifications protocol that enables wall
 
 > **`Authors: Harsh Rajat, Richa Joshi | founders@epns.io`**
 
-> **`Whitepaper Draft Version 1.0 | June 2020`**
+> **`Whitepaper Version 1.0 | June 2020`**
 >
-> **`Last Updated: 26th October, 2020`**
+> **`Last Updated: 16th November, 2020`**
 
 {% hint style="info" %}
 **`Draft for community review and subject to change`**
