@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Ethereum Push Notification Service \(EPNS\)](README.md)
+* [DISCLAIMER](disclaimer.md)
 * [Index](index.md)
 
 ## Introduction <a id="introduction-section"></a>
@@ -29,13 +30,13 @@
   * [Subscribers](protocol-specs-section/epns-protocol/subscribers/README.md)
     * [Subscribing to Channel](protocol-specs-section/epns-protocol/subscribers/subscribing-to-channel.md)
     * [User direct action subscribe](protocol-specs-section/epns-protocol/subscribers/user-direct-action-subscribe.md)
-    * [Deriving weighted earnings of a subscriber of a channel](protocol-specs-section/epns-protocol/subscribers/deriving-weighted-earnings-of-a-subscriber-of-a-channel.md)
+    * [Deriving weighted accumulated token incentives of a subscriber of a channel](protocol-specs-section/epns-protocol/subscribers/deriving-weighted-earnings-of-a-subscriber-of-a-channel.md)
     * [Indirect subscribe action \(delegate subscription of user by channel\)](protocol-specs-section/epns-protocol/subscribers/indirect-subscribe-action-delegate-subscription-of-user-by-channel.md)
     * [Unsubscribing from Channel](protocol-specs-section/epns-protocol/subscribers/unsubscribing-from-channel.md)
   * [Sending Notifications](protocol-specs-section/epns-protocol/sending-notifications/README.md)
     * [Protocol Interfacing for Notifications](protocol-specs-section/epns-protocol/sending-notifications/notifications-abi.md)
     * [Delegation of Notifications](protocol-specs-section/epns-protocol/sending-notifications/delegation-of-notifications.md)
-  * [Claiming Earnings from Protocol](protocol-specs-section/epns-protocol/claiming-earnings-from-protocol.md)
+  * [Claiming Token incentives from Protocol](protocol-specs-section/epns-protocol/claiming-earnings-from-protocol.md)
 * [EPNS Products](protocol-specs-section/the-epns-product.md)
 * [Integration Flow for dApp / Server / Smart Contract](protocol-specs-section/protocol-integration-flow/README.md)
   * [Creating Channel on dApp / Server / Smart Contract](protocol-specs-section/protocol-integration-flow/creating-channel-on-protocol.md)
@@ -49,6 +50,10 @@
 * [Governance](governance-section/governance/README.md)
   * [Usage and Design](governance-section/governance/usage-and-design.md)
   * [Game Theory](governance-section/governance/game-theory.md)
+
+## Risks
+
+* [Risks](risks/risks.md)
 
 ## Summary <a id="summary-section"></a>
 

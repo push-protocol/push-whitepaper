@@ -4,7 +4,7 @@
 
 The stake pool is a pool that contains all the staking fees from all the channels. There are two important concepts to keep in mind to derive the fair share of token incentives for an individual channel.
 
-* The staking fee starts earning token incentives as soon as a channel is activated, this means that the fair share of a channel would need to account for the time since the channel is activated to ensure fair play. This is achieved by recording the **block number** at which a channel is activated.
+* The staking fee starts accumulating token incentives as soon as a channel is activated, this means that the fair share of a channel would need to account for the time since the channel is activated to ensure fair play. This is achieved by recording the **block number** at which a channel is activated.
 * The staking fee is dynamic and can differ from one channel to another, i.e. channel decides the amount based on their game theory and incentive plan they put in place. To account for this, the **weight** of the channel and **aggregated weight of all channels** are recorded at the time a new channel creation.
 
 ## Problem Statement

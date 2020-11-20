@@ -1,6 +1,6 @@
 # Basic Definitions
 
-The following definitions are used in the rest of the whitepaper to refer to certain roles. Most of the terminologies when it comes to services, users and subscribers are very similar to YouTube.
+The following definitions are used in the rest of the whitepaper to refer to certain roles. 
 
 ## EPNS Related
 

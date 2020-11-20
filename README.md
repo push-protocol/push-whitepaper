@@ -1,7 +1,7 @@
 ---
 description: >-
-  A decentralized DeFi Notification protocol that enables users (wallet
-  addresses) to receive notifications and earn token incentives through active
+  A decentralized Notification protocol that enables users (wallet addresses) to
+  receive notifications and obtain token incentives through active
   participation.
 ---
 

@@ -2,6 +2,8 @@
 
 0    [Ethereum Push Notification Service \(EPNS\)](./)
 
+0   [DISCLAIMER](disclaimer.md)
+
 1    [Introduction](introduction-section/introduction/)
 
        1.1    [Protocol / Product Flow](introduction-section/introduction/high-level-application-flow-diagram.md)
@@ -74,15 +76,17 @@
 
 7    [Governance](governance-section/governance/)
 
-8    [Summary](summary-section/summary.md)
+8     [Risks](risks/risks.md)
 
-9     [Milestones](milestones-section/milestones.md)
+9    [Summary](summary-section/summary.md)
 
-10    [Founders](team-and-acheivements-section/founders.md)
+10     [Milestones](milestones-section/milestones.md)
 
-11    [Achievements](team-and-acheivements-section/achievements.md)
+11    [Founders](team-and-acheivements-section/founders.md)
 
-12    [References](references-section/references.md)
+12    [Achievements](team-and-acheivements-section/achievements.md)
+
+13    [References](references-section/references.md)
 
 
 

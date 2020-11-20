@@ -14,5 +14,5 @@ However, for web 3.0, there still **doesn't exist a** **notification mechanism**
 
 This is a major issue in adoption and the problem will worsen more as the services keep on growing on blockchain.
 
-This paper describes the solution to these problems and aims to provide the missing piece of web 3.0 infrastructure with the introduction of the decentralized notification protocol. The protocol will enable users to receive notifications, be in complete control of the notifications they receive as well as enabling users to earn token incentives from those notifications.
+This paper describes the solution to these problems and aims to provide the missing piece of web 3.0 infrastructure with the introduction of the decentralized notification protocol. The protocol will enable users to receive notifications, be in complete control of the notifications they receive as well as enabling users to receive and accumulate token incentives from those notifications.
 

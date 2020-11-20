@@ -10,7 +10,7 @@ Some of the use cases we see opening up by this approach are:
 
 * To allow users to receive notifications with different content type \(images, call to actions, videos, etc.\).
 * To allow future content or payload to be different and be interpreted differently.
-* Makes interpreting payload storage flexible as changing payload type can indicate the storage medium \(on-chain, ipfs, other storage solutions\).
+* Makes interpreting payload storage flexible as changing payload type can indicate the storage medium \(on-chain, IPFS, other storage solutions\).
 * To allow service to create channel that any user can subscribe to.
 * To allow channels to approve users as subscribers and create business cases around them.
 * To allow channel and users to approve each other before information is shared between them.
