@@ -59,10 +59,6 @@
 
 * [Summary](summary-section/summary.md)
 
-## Milestones <a id="milestones-section"></a>
-
-* [Milestones](milestones-section/milestones.md)
-
 ## Team & Acheivements <a id="team-and-acheivements-section"></a>
 
 * [Founders](team-and-acheivements-section/founders.md)

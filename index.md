@@ -80,7 +80,7 @@
 
 9    [Summary](summary-section/summary.md)
 
-10     [Milestones](milestones-section/milestones.md)
+10     [Milestones]()
 
 11    [Founders](team-and-acheivements-section/founders.md)
 
