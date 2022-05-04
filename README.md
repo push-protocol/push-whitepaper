@@ -5,7 +5,11 @@ description: >-
   participation.
 ---
 
-# Ethereum Push Notification Service \(EPNS\)
+# Ethereum Push Notification Service (EPNS)
+
+{% hint style="info" %}
+**Whitepaper is written for Ethereum Blockchain, as EPNS protocol is moving to multi-chain. Some of the info might be outdated.**
+{% endhint %}
 
 ![](.gitbook/assets/logofulltaglinesquarsmall.jpg)
 
@@ -23,3 +27,6 @@ The document introduces a decentralized notifications protocol that enables wall
 **`Draft for community review and subject to change`**
 {% endhint %}
 
+{% hint style="info" %}
+**Whitepaper is written for Ethereum Blockchain, as EPNS protocol is moving to multi-chain. Some of the info might be outdated.**
+{% endhint %}
