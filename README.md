@@ -30,3 +30,8 @@ The document introduces a decentralized notifications protocol that enables wall
 {% hint style="info" %}
 **Whitepaper is written for Ethereum Blockchain, as EPNS protocol is moving to multi-chain. Some of the info might be outdated.**
 {% endhint %}
+
+{% hint style="info" %}
+To know more, please visit [Developer docs](https://docs.epns.io/developers).
+{% endhint %}
+
