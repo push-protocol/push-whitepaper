@@ -4,7 +4,7 @@
 
 A **service** needs to activate itself on the protocol as a one time step before they can send notifications to their subscribers. When a service is activated on the protocol, they are referred to as a **Channel**.
 
-The channel is also required to stake fees in DAI which is **50 DAI or higher**, this is used to create a staking pool which in turn interacts with other DeFi protocols to receive token incentives. These token incentives are then distributed to all the **subscribers** of that service in a weighted manner preferring the earliest subscriber more than the later ones.
+The channel is also required to stake fees in DAI which is **50 $PUSH or higher**, this is used to create a staking pool which in turn interacts with other DeFi protocols to receive token incentives. These token incentives are then distributed to all the **subscribers** of that service in a weighted manner preferring the earliest subscriber more than the later ones.
 
 {% hint style="info" %}
 There is always 1:1 mapping between a service \(wallet\) and the channel it creates.
