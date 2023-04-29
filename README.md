@@ -5,13 +5,13 @@ description: >-
   participation.
 ---
 
-# Push Protocol (EPNS)
+# Push Protocol (Previously EPNS)
 
 {% hint style="info" %}
 **Whitepaper is written for Ethereum Blockchain, as PUSH protocol is moving to multi-chain. Some of the info might be outdated.**
 {% endhint %}
 
-![](.gitbook/assets/logofulltaglinesquarsmall.jpg)
+![](.gitbook/assets/PushLogoStandardDark.png)
 
 **Abstract**
 
@@ -19,9 +19,9 @@ The document introduces a decentralized notifications protocol that enables wall
 
 > **`Authors: Harsh Rajat, Richa Joshi | founders@epns.io`**
 
-> **`Whitepaper Version 1.0 | June 2020`**
+> **`Whitepaper Version 1.01 | May 2023`**
 >
-> **`Last Updated: 16th November, 2020`**
+> **`Last Updated: 6th May, 2023`**
 
 {% hint style="info" %}
 **`Draft for community review and subject to change`**

@@ -1,4 +1,4 @@
-# EPNS Protocol
+# Push Protocol
 
 ## Introduction
 

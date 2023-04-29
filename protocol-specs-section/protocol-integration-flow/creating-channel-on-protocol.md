@@ -1,6 +1,6 @@
 # Creating Channel on dApp / Server / Smart Contract
 
-The creation of channel is a **one time process** and as such is recommended to do it either from EPNS dApp, EPNS JS library or a custom JS library of your choice. [Information about the channel payload specs is described here](../specifications/channel-payload-specs.md).
+The creation of channel is a **one time process** and as such is recommended to do it either from Push dApp, Push JS library or a custom JS library of your choice. [Information about the channel payload specs is described here](../specifications/channel-payload-specs.md).
 
 Interfacing directly via smart contract to protocol to create a channel can also be done by calling it
 
@@ -48,7 +48,7 @@ Example **\_publickey**: 0x187c0568118be8032ece2499135d16a69b1da955125185c195a90
 {% endhint %}
 
 {% hint style="info" %}
-Always recommended to interface with **EPNS JS Library** for abstracting these details out.
+Always recommended to interface with **Push JS Library** for abstracting these details out.
 {% endhint %}
 
 {% hint style="warning" %}

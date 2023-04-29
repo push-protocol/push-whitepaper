@@ -1,10 +1,10 @@
 # Game Theory
 
-The game theory of governance is designed keeping in mind all participating users of the EPNS ecosystem. The more users the protocol has, more services will come leading to an increase in fees pool and rewards leading to direct impact on the token utility as the token is intrinsically linked to protocol growth, being a key medium of exchange for all activities occurring thereon.
+The game theory of governance is designed keeping in mind all participating users of the Push ecosystem. The more users the protocol has, more services will come leading to an increase in fees pool and rewards leading to direct impact on the token utility as the token is intrinsically linked to protocol growth, being a key medium of exchange for all activities occurring thereon.
 
 ## Game Theory
 
-1. **Service Providers** ​are already incentivized to send notifications as it brings them on par with web2 experience, and with platform agnostic and incentivized notifications, we can even go ahead and state that EPNS betters the current notification game of web2 / centralized. The subsection of this will also be ​**vendors** ​who are third party developers that will be creating channels to capitalize on liquidity mining.
+1. **Service Providers** ​are already incentivized to send notifications as it brings them on par with web2 experience, and with platform agnostic and incentivized notifications, we can even go ahead and state that Push betters the current notification game of web2 / centralized. The subsection of this will also be ​**vendors** ​who are third party developers that will be creating channels to capitalize on liquidity mining.
 2. **Users**​ are incentivized as they want to receive notifications related to payments, DeFi, gaming or service​ ​on web 3. As can be seen by traditional services \(web 2\) and the rampant use of notifications to drive engagement which is working and has become a part of all of our daily lives. Users also benefit by ​**receiving token incentives from notifications** ​and by **universal delivery**​.
 3. **Wallets / Infra Services**
    * **Existing Wallets / Services** ​are incentivized to continue performing as that ensures their perpetual share from the integration partners pool.

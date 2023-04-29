@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ethereum Push Notification Service (EPNS)](README.md)
+* [Push (Previously EPNS)](README.md)
 * [DISCLAIMER](disclaimer.md)
 * [Index](index.md)
 
@@ -15,7 +15,7 @@
 * [Specifications](protocol-specs-section/specifications/README.md)
   * [Channel Payload Specs](protocol-specs-section/specifications/channel-payload-specs.md)
   * [Notification Payload Specs](protocol-specs-section/specifications/notification-payload-specs.md)
-* [EPNS Protocol](protocol-specs-section/epns-protocol/README.md)
+* [Push Protocol](protocol-specs-section/epns-protocol/README.md)
   * [Users](protocol-specs-section/epns-protocol/users/README.md)
     * [Users Registry](protocol-specs-section/epns-protocol/users/users-registry.md)
     * [Public Key Registry](protocol-specs-section/epns-protocol/users/public-key-registry.md)
@@ -37,7 +37,7 @@
     * [Protocol Interfacing for Notifications](protocol-specs-section/epns-protocol/sending-notifications/notifications-abi.md)
     * [Delegation of Notifications](protocol-specs-section/epns-protocol/sending-notifications/delegation-of-notifications.md)
   * [Claiming Token incentives from Protocol](protocol-specs-section/epns-protocol/claiming-earnings-from-protocol.md)
-* [EPNS Products](protocol-specs-section/the-epns-product.md)
+* [Push Products](protocol-specs-section/the-epns-product.md)
 * [Integration Flow for dApp / Server / Smart Contract](protocol-specs-section/protocol-integration-flow/README.md)
   * [Creating Channel on dApp / Server / Smart Contract](protocol-specs-section/protocol-integration-flow/creating-channel-on-protocol.md)
   * [Sending Notification from dApp / Serverless](protocol-specs-section/protocol-integration-flow/sending-notification-dapp.md)

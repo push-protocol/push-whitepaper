@@ -1,4 +1,4 @@
-# EPNS Infra \(Push Service\)
+# Push Infra \(Push Service\)
 
 ## 
 

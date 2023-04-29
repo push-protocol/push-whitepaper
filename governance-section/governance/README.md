@@ -1,8 +1,8 @@
 # Governance
 
-The protocol tokens \(**$PUSH**\) are designed to incentivize continued adoption cycle for the EPNS protocol. This is achieved by ensuring incentives for all the users involved by rewarding or encouraging them through incentives and penalty, their continued involvement is seen to be necessary for the growth and adoption of the protocol and to achieve the **vision of becoming web3 notification standard**.
+The protocol tokens \(**$PUSH**\) are designed to incentivize continued adoption cycle for the Push protocol. This is achieved by ensuring incentives for all the users involved by rewarding or encouraging them through incentives and penalty, their continued involvement is seen to be necessary for the growth and adoption of the protocol and to achieve the **vision of becoming web3 notification standard**.
 
-## Users of EPNS
+## Users of Push
 
 <table>
   <thead>
@@ -32,7 +32,7 @@ The protocol tokens \(**$PUSH**\) are designed to incentivize continued adoption
         <p>Wallets / other infrastructure building on top of protocol that</p>
         <p>enables users to receive notifications through their centralized or decentralized
           solution (mobile app, web browser, user wallets like metamask, trust, etc).
-          Includes the EPNS infra which does delivery.</p>
+          Includes the Push infra which does delivery.</p>
       </td>
     </tr>
     <tr>

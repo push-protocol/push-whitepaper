@@ -2,7 +2,7 @@
 
 ## Concept
 
-All of the payloads are uploaded as JSON format in decentralized storage solutions \(**or in some special future cases, even centralized ones**\). The EPNS JS Library interfaces with Ethereum Push Notification Service protocol and calls:
+All of the payloads are uploaded as JSON format in decentralized storage solutions \(**or in some special future cases, even centralized ones**\). The Push JS Library interfaces with Ethereum Push Notification Service protocol and calls:
 
 ```text
 sendNotification(address _recipient, bytes _identity)
@@ -24,7 +24,7 @@ Example \_identity: 2+QmcdzjicUnxv8ASKKSgEEYjhK7symwxqDG4BeCS82rdNBk
 {% endhint %}
 
 {% hint style="info" %}
-Always recommended to interface with **EPNS JS Library** for abstracting these details out.
+Always recommended to interface with **Push JS Library** for abstracting these details out.
 {% endhint %}
 
 {% hint style="warning" %}

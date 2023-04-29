@@ -1,6 +1,6 @@
 # Specifications
 
-EPNS is a notification protocol at its heart. We see notifications as the means to communicate information which can be of different types, carry different utilities and perform different tasks as per their use cases. To enable this, we assign each notification payload a payload type that defines certain characteristics of both the data they carry and the medium of storage. 
+Push is a notification protocol at its heart. We see notifications as the means to communicate information which can be of different types, carry different utilities and perform different tasks as per their use cases. To enable this, we assign each notification payload a payload type that defines certain characteristics of both the data they carry and the medium of storage. 
 
 Besides the flexibility of notification payload, we also see the rules established between **channels** and their **subscribers** to also have an impact on their utility and use cases.
 

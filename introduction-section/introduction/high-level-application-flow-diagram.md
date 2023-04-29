@@ -1,6 +1,6 @@
 # Protocol / Product Flow
 
-EPNS uses the following flow to ensure storage, broadcasting and sending notifications in a platform agnostic and decentralized way.
+Push uses the following flow to ensure storage, broadcasting and sending notifications in a platform agnostic and decentralized way.
 
 ![High level flow](../../.gitbook/assets/highleveldefi%20%281%29.jpg)
 

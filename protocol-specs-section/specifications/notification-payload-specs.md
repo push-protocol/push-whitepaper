@@ -29,7 +29,7 @@ If no **data** is carried in the **payload** \(or only **atime** is carried\), i
 
 ## Payload Types
 
-The following are few payload types that are already defined, though they can change as we move forward. Notification payload type for EPNS is infinitely extensible and opens a huge range of possibilities including **multi-factor authentication, payments, blacklisting address \(Multi-sig contract as a channel with exchanges as their subscribers\), etc.** The data defined in the JSON payload they carry is used to interpret and extend that functionality.
+The following are few payload types that are already defined, though they can change as we move forward. Notification payload type for Push is infinitely extensible and opens a huge range of possibilities including **multi-factor authentication, payments, blacklisting address \(Multi-sig contract as a channel with exchanges as their subscribers\), etc.** The data defined in the JSON payload they carry is used to interpret and extend that functionality.
 
 ### Direct Protocol Payload \(Type 0\)
 
@@ -44,7 +44,7 @@ It's always recommended to use other payloads for dApp or server interaction. Th
 {% endhint %}
 
 {% hint style="info" %}
-Always recommended to interface with **EPNS JS Library** for abstracting these details out.
+Always recommended to interface with **Push JS Library** for abstracting these details out.
 {% endhint %}
 
 ### Broadcast Payload \(Type 1\)
@@ -122,7 +122,7 @@ The discussion on using a public key - private key encryption or a derivation of
 ```
 
 {% hint style="info" %}
-**Recommended** to use the **EPNS** **JS Library** to handle the generation of encrypted payload easily, it can talk to our protocol to also fetch the public key required.
+**Recommended** to use the **Push** **JS Library** to handle the generation of encrypted payload easily, it can talk to our protocol to also fetch the public key required.
 {% endhint %}
 
 #### Example Notification Payload \(Encrypted\)
@@ -219,6 +219,6 @@ Blacklist payload are a future forward payload meant to only demonstrate how the
 ```
 
 {% hint style="info" %}
-The support for payload types is left to third party frontend / infrastructure services to implement. The accompanying EPNS products however will implement all payloads types which are accepted as official after community discussion.
+The support for payload types is left to third party frontend / infrastructure services to implement. The accompanying Push products however will implement all payloads types which are accepted as official after community discussion.
 {% endhint %}
 
