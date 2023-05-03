@@ -1,6 +1,6 @@
 # Index
 
-[Ethereum Push Notification Service \(EPNS\) Abstract](./)
+[Push Protocol Abstract](./)
 
 [DISCLAIMER](disclaimer.md)
 
@@ -16,7 +16,7 @@
 
        2.2    [Notification Payload Specs](protocol-specs-section/specifications/notification-payload-specs.md)
 
-3    [EPNS Protocol](protocol-specs-section/epns-protocol/)
+3    [Push Protocol](protocol-specs-section/epns-protocol/)
 
        3.1    [Users](protocol-specs-section/epns-protocol/users/)
 
@@ -46,7 +46,7 @@
 
               3.3.2     [User direct action subscribe](protocol-specs-section/epns-protocol/subscribers/user-direct-action-subscribe.md)
 
-              3.3.3     [Deriving weighted earnings of a subscriber of a channel](protocol-specs-section/epns-protocol/subscribers/deriving-weighted-earnings-of-a-subscriber-of-a-channel.md)
+              3.3.3     [Deriving weighted accumulated token incentives of a subscriber of a channel](protocol-specs-section/epns-protocol/subscribers/deriving-weighted-earnings-of-a-subscriber-of-a-channel.md)
 
               3.3.4     [Indirect subscribe action \(delegate subscription of user by channel\)](protocol-specs-section/epns-protocol/subscribers/indirect-subscribe-action-delegate-subscription-of-user-by-channel.md)
 
@@ -60,7 +60,7 @@
 
        3.5    [Claiming Earnings from Protocol](protocol-specs-section/epns-protocol/claiming-earnings-from-protocol.md)
 
-4    [EPNS Products](protocol-specs-section/the-epns-product.md)
+4    [Push Products](protocol-specs-section/the-epns-product.md)
 
 5    [Integration Flow for dApp / Server / Smart Contract](protocol-specs-section/protocol-integration-flow/)
 
@@ -71,10 +71,16 @@
        5.3    [Sending Notification from Server](protocol-specs-section/protocol-integration-flow/sending-notification-from-smart-contract.md)
 
        5.4    [Sending Notification from Smart Contract](protocol-specs-section/protocol-integration-flow/sending-notification-from-server.md)
+     
+       5.5    [Introduction to Push Nodes](protocol-specs-section/protocol-integration-flow/introduction-to-push-nodes.md)    
 
 6    [Future Features & Research](protocol-specs-section/future-features-research.md)
 
 7    [Governance](governance-section/governance/)
+      
+       7.1    [Usage and Design](governance-section/governance/usage-and-design.md)
+
+       7.2    [Game Theory](governance-section/governance/game-theory.md)
 
 8     [Risks](risks/risks.md)
 
