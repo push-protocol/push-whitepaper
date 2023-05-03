@@ -1,8 +1,8 @@
-# EPNS Protocol
+# Push Protocol
 
 ## Introduction
 
-Ethereum Push Notification Service protocol will be on the Ethereum blockchain that provides and standardises the ways by which notification on blockchain can operate. 
+Push Protocol is a decentralized communication protocol for Web3! Using which any dApps, smart contracts, backends or protocols can send communication (starting with on-chain / off-chain / gasless notifs) tied to user wallet addresses in an open, gasless, multichain, and platform agnostic fashion. The open communication layer allows any crypto wallet/front end to tap into the network and get the communication across.
 
 {% hint style="info" %}
 In the future, the protocol can also support other blockchain by exploring bridging or migrating the contract and service to a particular blockchain.
